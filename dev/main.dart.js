@@ -44822,7 +44822,7 @@ case 3:u=(p?null:q.a.readyState)!==1?5:6
 break
 case 5:u=7
 return P.y(r.en(),$async$jw)
-case 7:case 6:n=$.iE().b?"wss":"ws"+("://connect.websocket.in/ngti_estimoji?room_id="+H.c(a))
+case 7:case 6:n=($.iE().b?"wss":"ws")+"://connect.websocket.in/ngti_estimoji?room_id="+H.c(a)
 P.ag("websocket :: connect: "+n)
 u=8
 return P.y(S.OQ(n),$async$jw)
