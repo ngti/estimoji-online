@@ -26,6 +26,10 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/base/base
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/cards.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/common/emoji_card.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/createjoingame/createjoin_game.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/errors/base_error.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/errors/offline.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/errors/session_not_exist.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/errors/session_not_exist_style.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/gameadmin/gameadmin.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/navigator.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/splash/splash.dart
