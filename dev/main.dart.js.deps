@@ -17,7 +17,6 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/network
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/platform/multiplatform.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/playgame/cards_bloc.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/splash/splash_bloc.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/splash/version_provider.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/storage/storage.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/utils/build_utils.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/utils/utils.dart
@@ -30,7 +29,8 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/createjoi
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/gameadmin/gameadmin.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/navigator.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/splash/splash.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/splash/version_widget.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/splash/stacking-sample-cards.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/splash/style.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/utils/color_utils.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/utils/screen_utils.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/plugins_modified/flipcard_041_webfix/lib/flip_card.dart
@@ -257,16 +257,6 @@ file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/poi
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/pointycastle-1.0.1/lib/stream/salsa20.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/pointycastle-1.0.1/lib/stream/sic.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/progress_dialog-1.2.0/lib/progress_dialog.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.1.0/lib/provider.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.1.0/lib/src/async_provider.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.1.0/lib/src/change_notifier_provider.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.1.0/lib/src/consumer.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.1.0/lib/src/delegate_widget.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.1.0/lib/src/listenable_provider.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.1.0/lib/src/provider.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.1.0/lib/src/proxy_provider.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.1.0/lib/src/selector.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.1.0/lib/src/value_listenable_provider.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_data.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.6/lib/prefer_universal/html.dart
