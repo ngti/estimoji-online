@@ -6,22 +6,8 @@
     <meta http-equiv="Expires" content="0">
     <meta charset="UTF-8">
     <title>Estimoji</title>
-    <!--    <style>-->
-    <!--    @media screen  and (orientation: landscape) {-->
-    <!--  html {-->
-    <!--    transform: rotate(-90deg);-->
-    <!--    transform-origin: left top;-->
-    <!--    width: 100vh;-->
-    <!--    overflow-x: hidden;-->
-    <!--    position: absolute;-->
-    <!--    top: 100%;-->
-    <!--    left: 0;-->
-    <!--  }-->
-    <!--}-->
-
-    <!--    </style>-->
 </head>
-<body onresize="checkOrientation();">
+<body onresize="checkOrientation();" onload="checkOrientation();">
 <script type="application/javascript">
     function isMobile() {
     var match = window.matchMedia || window.msMatchMedia;
