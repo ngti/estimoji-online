@@ -7,8 +7,12 @@
     <meta charset="UTF-8">
     <title>Estimoji</title>
 </head>
-<body onresize="checkOrientation();" onload="checkOrientation();">
+<body>
+<script src="main.dart.js" type="application/javascript"></script>
+
 <script type="application/javascript">
+
+/*
     function isMobile() {
     var match = window.matchMedia || window.msMatchMedia;
     if(match) {
@@ -40,11 +44,14 @@ function checkOrientation(){
     var isLandscape = window.matchMedia("(orientation: landscape)");
 
     if(isMobile() && isLandscape.matches){
-        document.body.innerHTML = '<div style="text-align:center;position: absolute; top: 50%; bottom: 50%; width: 100%;">Landscape not supported in web mobile</div>';
+        var msg = "Landscape mode is not supported in mobile<br>🤦‍️<br>Please, turn your device orientation";
+        document.body.innerHTML = '<div style="text-align:center;position: absolute; top: 50%; bottom: 50%; width: 100%;">'+ msg +'</div>';
     } else {
         loadjscssfile("main.dart.js", "js")
     }
 }
+*/
+
 
 </script>
 </body>
