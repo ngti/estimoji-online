@@ -26,7 +26,8 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/base/base
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/cards.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/common/button.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/common/emoji_card.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/common/feedback-fab.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/common/feedback_dialog.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/common/feedback_fab.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/common/input_field.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/common/primary_button.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/ui/common/secondary_button.dart
