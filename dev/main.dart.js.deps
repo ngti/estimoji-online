@@ -9,8 +9,8 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/event.d
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/feature_config.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/gameadmin/gameadmin_bloc.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/interactor/game_interactor.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/interactor/network_layer.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/interactor/user_interactor.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/network/network_layer.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/network/poker_game.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/network/poker_user.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/lib/core/network/server_api.dart
