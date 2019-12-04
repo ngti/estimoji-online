@@ -192,6 +192,7 @@ file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/platform_views.dart
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/plugins.dart
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/pointer_binding.dart
+file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/pointer_converter.dart
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/recording_canvas.dart
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/render_vertices.dart
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/rrect_renderer.dart
