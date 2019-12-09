@@ -61,6 +61,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welco
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/splash.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/welcome.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/plugins_modified/flipcard_041_webfix/lib/flip_card.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/barcode_scan-1.0.0/lib/barcode_scan.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-1.3.1/lib/carousel_slider.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/ascii.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/collection.dart
@@ -135,9 +136,6 @@ file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/typ
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/uni_links-0.2.0/lib/uni_links.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.6/lib/prefer_universal/html.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.6/lib/src/_sdk/html.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.7/lib/url_launcher.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.1/lib/method_channel_url_launcher.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.1/lib/url_launcher_platform_interface.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-2.0.1/lib/uuid.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-2.0.1/lib/uuid_util.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
