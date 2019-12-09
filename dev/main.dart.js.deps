@@ -31,6 +31,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/myapp.da
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/base/base_state.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/cards.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/button.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/dialogs.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/emoji_card.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/feedback_dialog.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/feedback_fab.dart
