@@ -761,6 +761,7 @@ file:///Users/jenkins/development/flutter/packages/flutter/lib/src/rendering/par
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/rendering/performance_overlay.dart
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/rendering/platform_view.dart
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/rendering/proxy_box.dart
+file:///Users/jenkins/development/flutter/packages/flutter/lib/src/rendering/proxy_sliver.dart
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/rendering/rotated_box.dart
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/rendering/shifted_box.dart
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/rendering/sliver.dart
