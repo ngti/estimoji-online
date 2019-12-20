@@ -32754,7 +32754,7 @@ gem:function(a){return this.ch},
 gyH:function(){return this.cx}}
 E.yR.prototype={
 G:function(a){var u=null
-return M.as(u,new T.b5(this.e,this.d,u),u,u,S.cI(u,$.aaj(),H.c([new O.an(0,$.Ed(),C.j,24)],[O.an]),C.q,u,u,C.L),u,u,new V.Y(0,26,0,26),u,u,this.c)}}
+return M.as(u,new T.b5(this.d,this.c,u),u,u,S.cI(u,$.aaj(),H.c([new O.an(0,$.Ed(),C.j,24)],[O.an]),C.q,u,u,C.L),u,u,new V.Y(0,26,0,26),u,u,this.e)}}
 D.U2.prototype={
 G:function(a){var u=null,t=4291611852
 return new T.bv(u,this.d,Z.a9c(this.c,L.Mw(u,u,new V.Y(14,0,14,0),u,u,u,u,!0,new F.dM(4,C.b6,new Y.ch(new P.n(t),1,C.E)),u,u,u,u,$.Eg(),!0,u,new F.dM(4,C.b6,new Y.ch(new P.n(t),1,C.E)),u,!0,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u),1,u,K.a2(a,!1).M.f),u)}}
@@ -32832,7 +32832,7 @@ s=L.aD("To continue you need to create a new game or join an existing one",n,n,n
 r=[N.a_]
 q=o.H5(H.c([L.aD("Create a game",n,n,n,K.a2(o.c,!1).M.c,n),G.mA(o.fx,55,"Name",11,1),o.YG("Game type",$.abl),o.Yp(o.c)],r))
 p=o.H5(H.c([L.aD("Join a game",n,n,n,K.a2(o.c,!1).M.c,n),G.mA(o.z,55,"Your name",11,1),G.mA(o.Q,55,"Game id",11,1),o.Go(o.c)],r))
-return M.ja(t,M.as(C.u,T.c8(H.c([new R.nw(2,n),u,s,new R.nw(1,n),new E.yR(892,S.Vh(N.Vi(new Y.ch($.Ee(),1,C.E)),H.c([S.Vj(H.c([q,p],r))],[S.jo]),n,C.j3),new V.Y(4,43,4,43),n),new R.nw(3,n)],r),C.A,C.O,C.M),n,n,n,n,n,n,n,n,n),n,new V.wc(n),C.lR)}}
+return M.ja(t,M.as(C.u,T.c8(H.c([new R.nw(2,n),u,s,new R.nw(1,n),new E.yR(S.Vh(N.Vi(new Y.ch($.Ee(),1,C.E)),H.c([S.Vj(H.c([q,p],r))],[S.jo]),n,C.j3),new V.Y(4,43,4,43),892,n),new R.nw(3,n)],r),C.A,C.O,C.M),n,n,n,n,n,n,n,n,n),n,new V.wc(n),C.lR)}}
 G.Hn.prototype={
 $1:function(a){var u=null
 return new K.mk(a,new T.b5(new V.Y(14,0,14,0),L.aD(a,u,u,u,u,u),u),u,[P.i])},
@@ -32948,7 +32948,7 @@ return T.ea(C.b5,H.c([M.as(u,B.nx(new D.KL(this),N.ad8(H.c([],[N.du]),H.c([],[N.
 YB:function(){var u=null,t=new P.aR(4,4)
 t=S.cI(F.v0($.Ef(),1),new K.aY(t,t,t,t),u,C.q,u,u,C.L)
 return M.as(u,B.nx(new D.KY(this),"",this.e.mR(),P.i),u,u,t,u,u,u,u,u,u)},
-Yu:function(a,b){var u,t,s,r=this,q=null,p=H.e(a.b,"$inP"),o=p.a,n=$.ia()
+Yu:function(a,b){var u,t,s,r=this,q=null,p=H.e(b.b,"$inP"),o=p.a,n=$.ia()
 if(!n.b){n.toString
 n=!1}else n=!0
 u=n?5:3
@@ -32958,21 +32958,21 @@ t=n==null?q:n.aY(0)
 if(t==null)t=H.c([],[N.a_])
 if(p.a.length>1&&p.b.length===1&&r.e.e){n=X.abh(C.aT,new L.dm("assets/matu_party.gif",q,q))
 s=new P.aR(6,6)
-C.d.n(t,new T.b5(C.jm,M.as(q,q,q,q,S.cI(F.v0(K.a2(b,!1).c,1),new K.aY(s,s,s,s),q,C.q,q,n,C.L),q,50,q,q,q,50),q))}if(p.a0Z()&&r.e.e){n=X.abh(C.aT,new L.dm("assets/matublink.gif",q,q))
+C.d.n(t,new T.b5(C.jm,M.as(q,q,q,q,S.cI(F.v0(K.a2(a,!1).c,1),new K.aY(s,s,s,s),q,C.q,q,n,C.L),q,50,q,q,q,50),q))}if(p.a0Z()&&r.e.e){n=X.abh(C.aT,new L.dm("assets/matublink.gif",q,q))
 s=new P.aR(6,6)
-C.d.n(t,new T.b5(C.jm,M.as(q,q,q,q,S.cI(F.v0(K.a2(b,!1).c,1),new K.aY(s,s,s,s),q,q,q,n,C.L),q,50,q,q,q,50),q))}n=p.b
-return M.as(q,T.c8(H.c([r.Yv(n),new T.bv(q,20,q,q),new T.en(1,C.aN,B.ac2(r.Yk(u,o,b),q,q,!1),q)],[N.a_]),C.A,C.O,C.M),q,q,q,q,q,q,q,q,q)},
+C.d.n(t,new T.b5(C.jm,M.as(q,q,q,q,S.cI(F.v0(K.a2(a,!1).c,1),new K.aY(s,s,s,s),q,q,q,n,C.L),q,50,q,q,q,50),q))}n=p.b
+return M.as(q,T.c8(H.c([r.Yv(n),new T.bv(q,20,q,q),new T.en(1,C.aN,B.ac2(r.Yk(a,u,o),q,q,!1),q)],[N.a_]),C.A,C.O,C.M),q,q,q,q,q,q,q,q,q)},
 Yv:function(a){var u,t,s=this,r=null,q=s.z
 q.sem(0,a.length===0?"":H.d(T.ai2(C.d.gaa(a).a)))
 q=s.z
 u=P.aP([0,new S.kB(),1,new S.kB(),2,new S.kB(),3,new S.kB(),4,new S.kB()],P.h,S.l7)
 t=[N.a_]
 return M.as(r,T.dz(H.c([new T.bv(78,r,new D.U2(q,36,r),r),S.Vh(N.Vi(new Y.ch($.Ee(),1,C.E)),H.c([S.Vj(H.c([new V.U3(37,new V.Y(17,0,17,0),"Done",new D.KP(),r),U.a97(37,new V.Y(17,0,17,0),new D.KQ(s),"Clear all"),new T.bv(50,r,r,r),U.a97(37,new V.Y(17,0,17,0),new D.KR(s),"+ user"),U.a97(37,new V.Y(17,0,17,0),new D.KS(s),"- user")],t))],[S.jo]),u,C.j3)],t),C.A,C.O,C.aI),r,r,r,r,80,r,r,r,r)},
-Yk:function(a,b,c){var u,t=null,s=[N.a_],r=H.c([],s),q=a*1.2,p=0,o=0
+Yk:function(a,b,c){var u,t=null,s=[N.a_],r=H.c([],s),q=b*1.2,p=0,o=0
 do{u=H.c([],s)
-o+=a
-while(!0){if(!(p<o&&p<b.length))break
-u.push(this.Yj(b[p],F.bk(c,!1).a.a/q));++p}r.push(M.as(t,T.dz(u,C.A,C.aS,C.M),t,t,t,t,t,t,t,t,t))}while(o<b.length)
+o+=b
+while(!0){if(!(p<o&&p<c.length))break
+u.push(this.Yj(c[p],F.bk(a,!1).a.a/q));++p}r.push(M.as(t,T.dz(u,C.A,C.aS,C.M),t,t,t,t,t,t,t,t,t))}while(o<c.length)
 return r},
 YA:function(){var u=null
 return M.as(u,new T.ci(C.u,u,u,T.c8(H.c([L.aD("Invite players sharing the code",u,u,u,A.aS(u,u,u,u,u,u,u,u,u,u,u,25,u,u,u,u,!0,u,u,u,u,u,u),u),L.aD("",u,u,u,u,u),B.nx(new D.KX(this),"",this.e.mR(),P.i)],[N.a_]),C.A,C.aS,C.M),u),u,u,u,u,u,u,u,u,u)},
@@ -33013,7 +33013,7 @@ return s.i(0,t)},
 $aa8:function(){return[D.mt]}}
 D.KL.prototype={
 $2:function(a,b){var u=this.a,t=u.e.z.length
-return t===0?u.YA():u.Yu(b,a)},
+return t===0?u.YA():u.Yu(a,b)},
 $C:"$2",
 $R:2,
 $S:119}
@@ -33151,7 +33151,7 @@ return new T.b5(new V.Y(19,0,19,0),T.yw(u,u,C.aK,!0,u,Q.ed(u,s,t,c),C.aJ,u,1,C.a
 Yn:function(a){return new U.kU(314,55,new V.Y(0,33,0,0),"Continue",new T.Hv(this),null)}}
 T.Hw.prototype={
 $2:function(a,b){var u=null,t=this.a,s=[N.a_]
-return E.acS(new T.dE(new S.w(0,1/0,1000,1/0),M.as(C.d5,T.ea(C.u,H.c([T.W0(T.c8(H.c([new E.yR(708,T.c8(H.c([L.aD("Welcome to Estimoji",u,u,u,K.a2(a,!1).M.a,C.bm),L.aD("Estimoji is a consensus based, gamified technique to estimate the complexity and effort of a software feature.",u,u,u,K.a2(a,!1).M.y,C.bm),t.Yn(179.7)],s),C.A,C.O,C.M),new V.Y(95,91,95,47),u),T.c8(H.c([L.aD("Download estimoji for mobile:",u,u,u,K.a2(a,!1).M.x,u),new T.b5(new V.Y(0,23,0,88),T.dz(H.c([U.mw(C.u,u,!1,u,46.1,new L.dm("assets/app-store-badge.png",u,u),153.4),U.mw(C.u,u,!1,u,46.1,new L.dm("assets/google-play-badge.png",u,u),153.4)],s),C.A,C.O,C.aI),u)],s),C.A,C.ky,C.aI),t.Yf(a)],s),C.A,C.ky,C.aI),new P.o(0,180)),T.W0(new Z.ru(179.7,u),new P.o(0,-180))],s),C.aw,u,u),u,u,u,u,u,u,new V.Y(0,100,0,100),u,u),u))},
+return E.acS(new T.dE(new S.w(0,1/0,1000,1/0),M.as(C.d5,T.ea(C.u,H.c([T.W0(T.c8(H.c([new E.yR(T.c8(H.c([L.aD("Welcome to Estimoji",u,u,u,K.a2(a,!1).M.a,C.bm),L.aD("Estimoji is a consensus based, gamified technique to estimate the complexity and effort of a software feature.",u,u,u,K.a2(a,!1).M.y,C.bm),t.Yn(179.7)],s),C.A,C.O,C.M),new V.Y(95,91,95,47),708,u),T.c8(H.c([L.aD("Download estimoji for mobile:",u,u,u,K.a2(a,!1).M.x,u),new T.b5(new V.Y(0,23,0,88),T.dz(H.c([U.mw(C.u,u,!1,u,46.1,new L.dm("assets/app-store-badge.png",u,u),153.4),U.mw(C.u,u,!1,u,46.1,new L.dm("assets/google-play-badge.png",u,u),153.4)],s),C.A,C.O,C.aI),u)],s),C.A,C.ky,C.aI),t.Yf(a)],s),C.A,C.ky,C.aI),new P.o(0,180)),T.W0(new Z.ru(179.7,u),new P.o(0,-180))],s),C.aw,u,u),u,u,u,u,u,u,new V.Y(0,100,0,100),u,u),u))},
 $S:130}
 T.Ht.prototype={
 $0:function(){},
