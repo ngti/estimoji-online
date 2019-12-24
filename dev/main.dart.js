@@ -31998,10 +31998,10 @@ T.UD.prototype={
 $2:function(a,b){return this.a.a.n(0,b)},
 $S:238}
 R.dQ.prototype={
-GH:function(a){var u="estimoji",t=null,s="/topic/"+H.d(a),r=P.i,q=P.eB(t,t,t,t,!1,r)
-r=new T.z1("wss://ahistogram.ddns.net/ws",s,u,u,new P.dR(t,t,[r]),q)
-new P.dh(q,[H.p(q,0)]).ip(r.gfC(r))
-this.b=r
+GH:function(a){var u=null,t="/topic/"+H.d(a),s=P.i,r=P.eB(u,u,u,u,!1,s)
+s=new T.z1("wss://estimoji.scapp.io/ws",t,"flutter","flutter",new P.dR(u,u,[s]),r)
+new P.dh(r,[H.p(r,0)]).ip(s.gfC(s))
+this.b=s
 this.L_()}}
 N.UK.prototype={
 Oe:function(a,b){var u=this,t=u.Q
