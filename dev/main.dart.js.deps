@@ -9,6 +9,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/cre
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/event.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/feature_config.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/gameadmin/gameadmin_bloc.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/gameadmin/mockusers_helper.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/interactor/game_interactor.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/interactor/user_interactor.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/network_layer.dart
@@ -59,6 +60,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/error
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/errors/session_not_exist.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/errors/session_not_exist_style.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/errors/user_kicked_out.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/gameadmin/final_estiomation_background.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/gameadmin/gameadmin.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/navigator.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/theme/app_theme.dart
