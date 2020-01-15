@@ -194,6 +194,7 @@ file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/bitmap_canvas.dart
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/browser_detection.dart
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/browser_location.dart
+file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/canvas_pool.dart
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/color_filter.dart
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/canvas.dart
 file:///Users/jenkins/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/canvas_kit_canvas.dart
@@ -378,6 +379,7 @@ file:///Users/jenkins/development/flutter/packages/flutter/lib/src/foundation/pl
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/foundation/print.dart
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/foundation/profile.dart
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/foundation/serialization.dart
+file:///Users/jenkins/development/flutter/packages/flutter/lib/src/foundation/stack_frame.dart
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/foundation/synchronous_future.dart
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/foundation/unicode.dart
 file:///Users/jenkins/development/flutter/packages/flutter/lib/src/gestures/arena.dart
