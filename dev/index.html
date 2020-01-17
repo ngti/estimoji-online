@@ -5,6 +5,9 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
 
+    <!-- toolbar color fro chrome mobile -->
+    <meta name="theme-color" content="#f34e39">
+
     <meta property="og:title" content="Estimoji">
     <meta property="og:description" content="A gamified way to estimate the complexity and effort of a software feature.">
 
@@ -22,14 +25,10 @@
     <link rel="icon" href="assets/assets/favicon.ico" type="image/x-icon">
 
     <style>
-.verticalhorizontal {
-    display: table-cell;
-    height: 400px;
-    text-align: center;
-    width: 400px;
-    vertical-align: middle;
-}
 
+/*
+ https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/
+ */
 html {
    width:100%;
    height:100%;
@@ -39,10 +38,6 @@ html {
     </style>
 </head>
 <body>
-
-<!--<div class="verticalhorizontal">-->
-<!--    <img src="assets/assets/splash-web.gif" alt="loading..." />-->
-<!--</div>-->
 
 <script src="main.dart.js" type="application/javascript"></script>
 
