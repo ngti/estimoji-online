@@ -8067,7 +8067,7 @@ a0g:function a0g(a){this.a=a},
 a0h:function a0h(){},
 xL:function(){var t=0,s=P.I(u.N),r,q=2,p,o=[],n,m,l,k,j,i,h,g,f
 var $async$xL=P.E(function(a,b){if(a===1){p=b
-t=q}while(true)switch(t){case 0:g="1.3.3"
+t=q}while(true)switch(t){case 0:g="1.3.5"
 q=4
 t=7
 return P.A($.HR().XC("assets/build.properties"),$async$xL)
