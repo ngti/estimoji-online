@@ -35,6 +35,8 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/uti
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/welcome/welcome_bloc.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/main_web.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/myapp.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/analytics/analytics.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/analytics/analytics_html.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/base/base_state.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/cards.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/button.dart
@@ -72,7 +74,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welco
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/welcome.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/plugins_modified/flipcard_041_webfix/lib/flip_card.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/barcode_scan-1.0.0/lib/barcode_scan.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-1.4.0/lib/carousel_slider.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-1.4.1/lib/carousel_slider.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/ascii.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/collection.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/algorithms.dart
@@ -155,6 +157,11 @@ file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/typ
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/uni_links-0.2.0/lib/uni_links.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.12/lib/prefer_universal/html.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.12/lib/src/_sdk/html.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/usage-3.4.1/lib/src/usage_impl.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/usage-3.4.1/lib/src/usage_impl_html.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/usage-3.4.1/lib/usage.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/usage-3.4.1/lib/usage_html.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/usage-3.4.1/lib/uuid/uuid.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-2.0.1/lib/uuid.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-2.0.1/lib/uuid_util.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
