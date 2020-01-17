@@ -7,16 +7,53 @@
 
     <meta property="og:title" content="Estimoji">
     <meta property="og:description" content="A gamified way to estimate the complexity and effort of a software feature.">
+
+    <!--
+    300x200 good for whatsapp
+    https://stackoverflow.com/questions/25100917/showing-thumbnail-for-link-in-whatsapp-ogimage-meta-tag-doesnt-work
+    -->
     <meta property="og:image" content="http://web.estimoji.nl/dev/assets/assets/meta-Estimoji-300200.png">
-<!--    <meta property="og:url" content="http://web.estimoji.nl/dev/">-->
-<!--    <meta name="twitter:card" content="A gamified way to estimate the complexity and effort of a software feature.">-->
+    <!--    <meta property="og:url" content="http://web.estimoji.nl/dev/">-->
+    <!--    <meta name="twitter:card" content="A gamified way to estimate the complexity and effort of a software feature.">-->
 
     <meta charset="UTF-8">
     <title>Estimoji</title>
     <link rel="shortcut icon" href="assets/assets/favicon.ico" type="image/x-icon">
     <link rel="icon" href="assets/assets/favicon.ico" type="image/x-icon">
+
+    <style>
+
+// https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/
+html, body, #wrapper {
+   height:100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   border: 0;
+}
+#wrapper td {
+   vertical-align: middle;
+   text-align: center;
+}
+
+    </style>
 </head>
 <body>
+
+<!--
+the table trick to center image works good on chrome and safari
+https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/
+-->
+<table id="wrapper">
+    <tr>
+        <td><img src="assets/assets/splash-web.gif" alt="" /></td>
+    </tr>
+</table>
+
+<!--<div class="verticalhorizontal">-->
+<!--    <img src="assets/assets/splash-web.gif" alt="loading..." />-->
+<!--</div>-->
+
 <script src="main.dart.js" type="application/javascript"></script>
 
 <script type="application/javascript">
@@ -60,6 +97,7 @@ function checkOrientation(){
     }
 }
 */
+
 
 
 
