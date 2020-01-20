@@ -37,10 +37,12 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/uti
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/welcome/welcome_bloc.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/main.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/myapp.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/about/about_screen.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/analytics/analytics.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/analytics/analytics_html.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/base/base_state.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/cards.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/appbar.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/button.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/dialogs.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/drop_down.dart
