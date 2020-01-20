@@ -30056,7 +30056,7 @@ t.c.Xt(s.a.a,T.aA("Creating game",L.an(this.b,C.t,u.a).a,"creatingGame",null,nul
 $S:0}
 G.Q_.prototype={
 $0:function(){var t=this.a
-t.c.ho(T.aA("Join game",L.an(this.b,C.t,u.a).a,"joinGame",null,null),t.e.a.a,t.d.a.a)},
+t.c.ho(t.e.a.a,t.d.a.a,T.aA("Join game",L.an(this.b,C.t,u.a).a,"joinGame",null,null))},
 $S:0}
 R.ny.prototype={
 G:function(a){var t,s,r=this,q=null,p=u.g3,o=a.bS(p).x,n=M.am(q,L.ax(r.c,q,q,q,K.a4(a,!1).M.z,q),q,q,q,q,q,new V.Q(0,0,0,r.f),q,q,q),m=a.bS(p).y,l=$.yx()
@@ -30098,7 +30098,7 @@ t.c.oI(this.b,t.d.a.a)},
 $S:0}
 A.Vk.prototype={
 $0:function(){var t=this.a
-t.c.ho(T.aA("Join game",L.an(this.b,C.t,u.a).a,"joinGame",null,null),t.e.a.a,t.d.a.a)},
+t.c.ho(t.e.a.a,t.d.a.a,T.aA("Join game",L.an(this.b,C.t,u.a).a,"joinGame",null,null))},
 $S:0}
 Z.qg.prototype={
 G:function(a){var t=this,s=null,r=$.a7R(),q=t.z
