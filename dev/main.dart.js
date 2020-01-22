@@ -10049,7 +10049,8 @@ NN:function NN(a){this.a=a},
 NM:function NM(a,b){this.a=a
 this.b=b},
 WU:function WU(){},
-Xe:function Xe(){}},X={fo:function fo(){this.b=this.a=null},a8w:function a8w(a){this.a=a},
+Xe:function Xe(){}},X={fo:function fo(a,b){this.a=a
+this.b=b},a8w:function a8w(a){this.a=a},
 ajQ:function(a){var t,s
 if(P.c3(a.c).length===0){a.toString
 t=P.bA("en")}else t=J.cy(a)
@@ -28365,19 +28366,14 @@ return P.I($async$iq,s)},
 j7:function(a,b){P.aX("onError "+H.c(b))
 this.dL("ERROR")},
 zc:function(a){return P.aj9(new D.Of(a),u.z).hO(this.gxz(this))},
-hu:function(a,b){var t,s
+hu:function(a,b){var t
 P.aX("notify data: "+a+", "+H.c(b))
 t=this.a
-if((t.c&4)===0){s=new X.fo()
-s.a=a
-s.b=b
-t.C(0,s)}},
-dL:function(a){var t,s=this.a
-if((s.c&4)!==0)return
+if((t.c&4)===0)t.C(0,new X.fo(a,b))},
+dL:function(a){var t=this.a
+if((t.c&4)!==0)return
 P.aX("notify: "+a)
-t=new X.fo()
-t.a=a
-s.C(0,t)},
+t.C(0,new X.fo(a,null))},
 mm:function(a){var t=this.a,s=H.y(t).j("dI<1>")
 return new P.xU(new D.Og(a),new P.dI(t,s),s.j("xU<ba.T>"))},
 jd:function(a,b){return this.a09(a,b)},
@@ -28495,11 +28491,9 @@ return P.A(p.jd(q.b,new M.Pq(o,q.c)),$async$$0)
 case 3:if(!o.a){p.dL("OFFLINE")
 t=1
 break}p=p.a
-if(o.b){o=new X.fo()
-o.a="GOTO GAME SCREEN"
-p.C(0,o)}else{o=new X.fo()
-o.a="ERROR: CREATE GAME"
-p.C(0,o)}case 1:return P.H(r,s)}})
+if(o.b)p.C(0,new X.fo("GOTO GAME SCREEN",null))
+else p.C(0,new X.fo("ERROR: CREATE GAME",null))
+case 1:return P.H(r,s)}})
 return P.I($async$$0,s)},
 $S:8}
 M.Pq.prototype={
@@ -28778,7 +28772,8 @@ t.ch=r.e
 t.Q=a.d}if((q?null:r.f)===!0&&s.a.cy<r.e){q=s.a
 q.cy=r.e
 q.cx=a.d}}}
-N.jr.prototype={}
+N.jr.prototype={
+h:function(a){return this.a}}
 N.vz.prototype={
 Zx:function(){var t=this.b,s=t.length
 return s!==1&&s===2&&this.a.length>=3&&C.c.eE(t,new N.a07(),new N.a08())!=null}}
@@ -28927,6 +28922,7 @@ L.Gm.prototype={}
 N.fz.prototype={
 Gs:function(){var t=this.d
 return(t==null?null:t.length!==0)===!0},
+h:function(a){return this.b},
 gax:function(a){return this.b}}
 L.v8.prototype={
 c1:function(a){return P.nk(H.a([this.a.c1(0),this.b.c1(0)],u.zY),u.z)}}
@@ -29622,22 +29618,21 @@ switch(a){case C.jS:this.e.xG(0)
 break
 case C.jT:this.e.kk(0)
 break}},
-Sw:function(a){var t,s=this
-P.aX("_onBlocEventHere "+a.a+" "+s.h(0))
-t=a.a
-if(t==="ERROR")s.d.a_c()
-else if(t==="START PROGRESS"){a.b
+Sw:function(a){var t=this,s=a.a
+P.aX("_onBlocEventHere "+s+" "+t.h(0))
+if(s==="ERROR")t.d.a_c()
+else if(s==="START PROGRESS"){a.b
 P.aX("show progress")
-t=new M.Xl()
-$.ae2=s.c
+s=new M.Xl()
+$.ae2=t.c
 $.aeB=C.v7
 $.adY=!0
 $.yp=!1
-s.f=t
-t.Jo(0)}else if(t==="END PROGRESS"){P.aX("hide progress")
-t=s.f
-if(t!=null)t.lq()}else{P.aX("_onBlocEventHere else")
-s.f7(a)}},
+t.f=s
+s.Jo(0)}else if(s==="END PROGRESS"){P.aX("hide progress")
+s=t.f
+if(s!=null)s.lq()}else{P.aX("_onBlocEventHere else")
+t.f7(a)}},
 rA:function(){return!0},
 rB:function(){return}}
 A.vK.prototype={}
@@ -29731,14 +29726,14 @@ m=new H.ak(m,new T.Rc(j,k),H.bU(m).j("ak<1,eE>")).bG(0)
 l=m.length
 return new O.qu(m,l,r,t,t,!1,!1,!1,p,o,n,!0,C.t,new T.Rd(k,t),new D.FR(t,0.8,0,H.a([],u.iu),new R.ao(H.a([],u.u),u.A)),null)},
 f1:function(){return new B.P2(new P.cv(null,null,u.L))},
-f7:function(a){var t,s,r=this
-if(a.a==="EXIT GAME")r.d.o4()
-if(a.a==="RESET GAME")r.ay(new T.Rl(r))
-if(a.a==="KICKED OUT"){r.io(2)
-r.db=r.dy
-t=r.d.a.cr(u.I)
-s=u.K
-t.a0i("/kickedOut",s,s)}},
+f7:function(a){var t,s=this,r=a.a
+if(r==="EXIT GAME")s.d.o4()
+if(r==="RESET GAME")s.ay(new T.Rl(s))
+if(r==="KICKED OUT"){s.io(2)
+s.db=s.dy
+t=s.d.a.cr(u.I)
+r=u.K
+t.a0i("/kickedOut",r,r)}},
 m9:function(a,b){this.Q=a
 if(b)this.e.m8(this.cy[a])},
 io:function(a){this.ch=a
@@ -30022,12 +30017,12 @@ t.z.a_$=null
 t.Q.a_$=null
 t.ch.a_$=null
 t.cx.a_$=null},
-f7:function(a){var t,s=this
-if(a.a==="GOTO GAME SCREEN")s.d.xm()
-if(a.a==="JOINED GAME")s.d.xn()
-if(a.a==="CAN NOT JOIN"){t=s.d.a.cr(u.I)
-t.lQ("/sessionNotExist",u.K)}if(a.a==="OFFLINE"){t=s.d.a.cr(u.I)
-t.lQ("/offline",u.K)}if(a.a==="ADMIN GAME")s.d.xm()},
+f7:function(a){var t,s=this,r=a.a
+if(r==="GOTO GAME SCREEN")s.d.xm()
+if(r==="JOINED GAME")s.d.xn()
+if(r==="CAN NOT JOIN"){t=s.d.a.cr(u.I)
+t.lQ("/sessionNotExist",u.K)}if(r==="OFFLINE"){t=s.d.a.cr(u.I)
+t.lQ("/offline",u.K)}if(r==="ADMIN GAME")s.d.xm()},
 vO:function(){return new A.h8(new N.Pw(this),null)}}
 N.Py.prototype={
 $0:function(){return this.a.ay(new N.Px())},
@@ -30259,8 +30254,9 @@ vL:function(){var t=null
 return new T.bZ(C.z,t,t,B.jf(t,L.CP(C.nG,t,t),new D.SW(this),t),t)},
 W7:function(){return B.oB(new D.SQ(),"",this.e.ml(),u.z)},
 W8:function(){return B.oB(new D.SR(),"",this.e.JB(),u.z)},
-f7:function(a){if(a.a==="ADMIN CHANGED")this.d.xn()
-if(a.a==="EXIT ADMIN")this.d.o4()},
+f7:function(a){var t=a.a
+if(t==="ADMIN CHANGED")this.d.xn()
+if(t==="EXIT ADMIN")this.d.o4()},
 rP:function(a,b){var t,s,r=b.c
 r=C.d.R("",r)+"-"
 t=a.a
