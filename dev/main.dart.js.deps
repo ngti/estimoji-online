@@ -71,6 +71,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/creat
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/createjoingame/input_field_with_qr.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/createjoingame/mobile_lobby_layout.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/errors/base_error.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/errors/camera_permission_error.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/errors/offline.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/errors/session_not_exist.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/errors/session_not_exist_style.dart
@@ -86,6 +87,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welco
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/splash.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/welcome.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/plugins_modified/flipcard_041_webfix/lib/flip_card.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-3.0.0+1/lib/app_settings.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/barcode_scan-1.0.0/lib/barcode_scan.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-1.2.0/lib/carousel_slider.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/ascii.dart
