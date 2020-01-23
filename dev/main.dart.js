@@ -30408,13 +30408,13 @@ this.iG(1)
 this.A5()},
 G:function(a){var t=this,s=t.Xn(),r=t.Xo()
 return M.fz(s,r,!t.e.I8(a)?null:t.Xp(),null,null)},
-Xp:function(){var t,s,r,q,p=this,o=null,n="assets/join-icon-selected.png"
+Xp:function(){var t,s,r,q,p=this,o=null
 p.dy=1
 t=H.a([],u.wr)
 t.push(F.adl(S.tA(new L.da("assets/play-icon-selected.png",o,o)),S.tA(new L.da("assets/play-icon.png",o,o)),L.az("Play cards",o,o,o,o,o)))
 s=$.acy()
 s.toString
-if(p.e.I8(p.c))t.push(F.adl(S.tA(new L.da(n,o,o)),S.tA(new L.da(n,o,o)),L.az("Join a game",o,o,o,o,o)))
+if(p.e.I8(p.c))t.push(F.adl(S.tA(new L.da("assets/join-icon-selected.png",o,o)),S.tA(new L.da("assets/join-icon.png",o,o)),L.az("Join a game",o,o,o,o,o)))
 else --p.dy
 s=p.db
 r=K.a8(p.c,!1).c
