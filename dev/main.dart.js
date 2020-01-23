@@ -8442,7 +8442,7 @@ GO:function GO(a){this.a=a},
 jr:function(a){return R.agI().bS(new R.a9z(a),u.P)},
 ai0:function(a,b){return R.agI().bS(new R.a9y(a,b),u.P)},
 agI:function(){var t,s=$.agF
-if(s==null)s=D.abY("Estimoji","1.3.5","UA-38146504-6")
+if(s==null)s=D.abY("Estimoji","1.3.6","UA-38146504-6")
 else{t=new P.H($.S,u.cv)
 t.bd(s)
 s=t}return s.bS(new R.a8d(),u.pU)},
@@ -10001,7 +10001,7 @@ a8X:function a8X(a){this.a=a},
 a8Y:function a8Y(){},
 At:function(){var t=0,s=P.L(u.N),r,q=2,p,o=[],n,m,l,k,j,i,h,g,f
 var $async$At=P.G(function(a,b){if(a===1){p=b
-t=q}while(true)switch(t){case 0:g="1.3.5"
+t=q}while(true)switch(t){case 0:g="1.3.6"
 q=4
 t=7
 return P.B($.zC().HP("assets/build.properties"),$async$At)
@@ -30276,7 +30276,7 @@ K.l6.prototype={
 am:function(){return new K.zS(C.n)}}
 K.zS.prototype={
 G:function(a){var t=null
-return M.fy(X.Or(this),new T.ax(C.oa,T.bn(H.a([M.ap(t,new T.c4(C.v,t,t,L.az("Estimoji, 1.3.5",t,t,t,t,t),t),t,t,t,t,t,t,t,t,999999),new T.dd(1,C.au,new T.ax(C.o5,B.ae1(new K.Pj(),$.zC().HP("assets/CREDIT.md"),u.N),t),t)],u.p),C.z,C.L,C.D),t),t,t,t)},
+return M.fy(X.Or(this),new T.ax(C.oa,T.bn(H.a([M.ap(t,new T.c4(C.v,t,t,L.az("Estimoji, 1.3.6",t,t,t,t,t),t),t,t,t,t,t,t,t,t,999999),new T.dd(1,C.au,new T.ax(C.o5,B.ae1(new K.Pj(),$.zC().HP("assets/CREDIT.md"),u.N),t),t)],u.p),C.z,C.L,C.D),t),t,t,t)},
 oV:function(){return"App Info"},
 mn:function(){return!1},
 eh:function(){return new K.OS(new P.cA(null,null,u.F))},
