@@ -1,4 +1,4 @@
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/.dart_tool/flutter_build/1b3cf029caed5951f86eb221c9ad009c/main.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/.dart_tool/flutter_build/32941b6ea8f6009acbc771bf33f1c295/main.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/.packages
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/constants.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/app_config.dart
@@ -35,7 +35,6 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/sto
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/utils/build_utils.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/utils/utils.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/welcome/welcome_bloc.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/generated_plugin_registrant.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/l10n/localization.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/l10n/messages_all.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/l10n/messages_en.dart
@@ -87,7 +86,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welco
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/splash.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/welcome.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/plugins_modified/flipcard_041_webfix/lib/flip_card.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-3.0.0+1/lib/app_settings.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-3.0.0/lib/app_settings.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/barcode_scan-1.0.0/lib/barcode_scan.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-1.4.1/lib/carousel_slider.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/ascii.dart
@@ -234,10 +233,7 @@ file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/qr_
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/qr_flutter-3.0.1/lib/src/validator.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.0.5/lib/pattern.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.0.5/lib/src/pattern/glob.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.6/lib/shared_preferences.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-1.0.1/lib/method_channel_shared_preferences.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-1.0.1/lib/shared_preferences_platform_interface.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+3/lib/shared_preferences_web.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3+5/lib/shared_preferences.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/source_span.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/src/colors.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/src/file.dart
@@ -271,13 +267,12 @@ file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/ter
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib/term_glyph.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_data.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/uni_links-0.1.4/lib/uni_links.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/uni_links-0.2.0/lib/uni_links.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.12/lib/prefer_universal/html.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.12/lib/src/_sdk/html.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.1/lib/url_launcher.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.7/lib/url_launcher.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.5/lib/method_channel_url_launcher.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.5/lib/url_launcher_platform_interface.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.0+2/lib/url_launcher_web.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/usage-3.4.1/lib/src/usage_impl.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/usage-3.4.1/lib/src/usage_impl_html.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/usage-3.4.1/lib/usage.dart
@@ -895,6 +890,3 @@ file:///Users/jenkins/development/flutter/packages/flutter_localizations/lib/src
 file:///Users/jenkins/development/flutter/packages/flutter_localizations/lib/src/material_localizations.dart
 file:///Users/jenkins/development/flutter/packages/flutter_localizations/lib/src/utils/date_localizations.dart
 file:///Users/jenkins/development/flutter/packages/flutter_localizations/lib/src/widgets_localizations.dart
-file:///Users/jenkins/development/flutter/packages/flutter_web_plugins/lib/flutter_web_plugins.dart
-file:///Users/jenkins/development/flutter/packages/flutter_web_plugins/lib/src/plugin_event_channel.dart
-file:///Users/jenkins/development/flutter/packages/flutter_web_plugins/lib/src/plugin_registry.dart
