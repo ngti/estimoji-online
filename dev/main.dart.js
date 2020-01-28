@@ -31129,7 +31129,7 @@ t.Q=!1},
 $S:0}
 D.UA.prototype={
 $2:function(a,b){var t=null
-return R.oj(!1,!0,new T.ax(C.b5,U.h6("assets/scan-qr.png",C.db,t,t,t),t),t,!0,t,t,t,t,t,t,t,t,new D.Uz(this.a),t)},
+return R.oj(!1,!0,new T.ax(C.b5,U.h6("assets/show-qr-icon.png",C.db,t,t,t),t),t,!0,t,t,t,t,t,t,t,t,new D.Uz(this.a),t)},
 $C:"$2",
 $R:2,
 $S:322}
