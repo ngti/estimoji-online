@@ -86,6 +86,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welco
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/splash.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/welcome.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/plugins_modified/flipcard_041_webfix/lib/flip_card.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/plugins_modified/progress_dialog/lib/progress_dialog.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-3.0.0/lib/app_settings.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/barcode_scan-1.0.0/lib/barcode_scan.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-1.4.1/lib/carousel_slider.dart
@@ -210,7 +211,6 @@ file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/pat
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib/src/utils.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.8.0+1/lib/pedantic.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.1/lib/plugin_platform_interface.dart
-file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/progress_dialog-1.2.0/lib/progress_dialog.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/qr-1.2.0/lib/qr.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/qr-1.2.0/lib/src/bit_buffer.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/qr-1.2.0/lib/src/byte.dart
