@@ -56,6 +56,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/commo
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/emoji_card.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/feedback_dialog.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/feedback_fab.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/feedback_form.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/feedback_mobile.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/input_field.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/primary_button.dart
@@ -137,6 +138,7 @@ file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/cry
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.3/lib/src/sha512.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.3/lib/src/sha512_slowsinks.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.3/lib/src/utils.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/email_validator-1.0.4/lib/email_validator.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_markdown-0.3.2/lib/flutter_markdown.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_markdown-0.3.2/lib/src/_functions_web.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_markdown-0.3.2/lib/src/builder.dart
