@@ -26,7 +26,6 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/net
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/websocket/stomp/stream_stomp_connector.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/websocket/update_command.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/websocket/web_socket_server_api.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/platform/multiplatform.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/playgame/cards_bloc.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/storage/in_memory_storage.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/storage/mobile_preferences_storage.dart
