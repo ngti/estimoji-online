@@ -1,13 +1,10 @@
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/.dart_tool/flutter_build/32941b6ea8f6009acbc771bf33f1c295/main.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/.packages
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/constants.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/app_config.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/base_bloc.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/card.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/config.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/createjoingame/createjoin_bloc.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/event.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/feature_config.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/gameadmin/gameadmin_bloc.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/gameadmin/mockusers_helper.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/interactor/game_interactor.dart
@@ -17,8 +14,6 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/net
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/poker_user.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/server_api.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/stream_service.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/websocket/dot_in/dot_in_stream_service.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/websocket/dot_in/dot_in_web_socket_server_api.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/websocket/join_command.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/websocket/server_command.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/network/websocket/stomp/stomp_stream_service.dart
@@ -31,8 +26,6 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/sto
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/storage/mobile_preferences_storage.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/storage/storage.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/storage/web_local_storage.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/utils/build_utils.dart
-file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/utils/utils.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/core/welcome/welcome_bloc.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/l10n/localization.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/l10n/messages_all.dart
@@ -47,6 +40,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/about
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/about/terms_screen.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/analytics/analytics.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/analytics/analytics_html.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/app_config.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/base/base_state.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/cards.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/common/appbar.dart
