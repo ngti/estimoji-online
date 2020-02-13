@@ -1,4 +1,4 @@
-# flutter, flutter_localizations, flutter_test [1c79347ef6](https://github.com/flutter/flutter/blob/1c79347ef6/LICENSE)
+# flutter, flutter_localizations, flutter_test [v1.13.8](https://github.com/flutter/flutter/blob/v1.13.8/LICENSE)
 
 Copyright 2014 The Flutter Authors. All rights reserved.
 
