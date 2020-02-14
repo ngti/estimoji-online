@@ -4,5 +4,5 @@ Hosting for estimoji web, created by jenkins from https://github.com/ngti/Estimo
 
 Folders
 
-- `/m`: the web build generated from master branch. Url: https://ngti.github.io/estimoji-online/m/
-- `/dev`: the web build generated from develop branch. Url: https://ngti.github.io/estimoji-online/dev/
+- `/m`: the web build generated from master branch. Url: https://estimoji.nl/m
+- `/dev`: the web build generated from develop branch. Url: https://estimoji.nl/dev
