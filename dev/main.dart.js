@@ -7722,8 +7722,8 @@ aaI:function aaI(){},
 aaJ:function aaJ(){},
 a9F:function a9F(){},
 aor:function(a){return"Do you want to kick player '"+H.c(a)+"'?"},
-agr:function(a){var t="Feedback",s="Join a game"
-return P.aD(["about",Z.D("About"),"aboutAppLink",Z.D("About Estimoji"),"aboutCompanyLink",Z.D("About NGTI"),"appDesc",Z.D("Estimoji allows teams to estimate the complexity of a software feature and the efforts required to implemented it. The goal of the game is not only to reach consensus, but also to make sure that all the players are on the same page."),"appInfo",Z.D("App Info"),"authorInfo",Z.D("NGTI Info"),"authorInfoHeader",Z.D("\ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbc\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbc\u200d"),"backButton",Z.D("Back"),"cancel",Z.D("Cancel"),"clearAllButton",Z.D("Clear All"),"continueButton",Z.D("Continue"),"creatingGame",Z.D("Creating game"),"doneButton",Z.D("Done"),"endGameConfirmSubTitle",Z.D("Do you want to end the game for you and all players?"),"endGameConfirmTitle",Z.D("End Game"),"error",Z.D("Oops, something went wrong"),"exit",Z.D("Quiting game"),"exitGame",Z.D("Finishing game"),"feedback",Z.D(t),"feedbackEmail",Z.D("Your email"),"feedbackEmailValidation",Z.D("Should comply with email format"),"feedbackFABText",Z.D(t),"feedbackMessage",Z.D("Your suggestions and bug reports are more than welcome"),"feedbackMessageValidation",Z.D("Minimum 8 characters"),"feedbackName",Z.D("Your name"),"feedbackNameValidation",Z.D("Minimum 3 A to Z characters"),"gameIdLabel",Z.D("Game: "),"generalError",Z.D("\nOooops!\n\nError!\n\nThis is embarrasing.\n\nCheck network...\nOr look for another programmer..."),"howToCreateGame",Z.D("You can create an estimation session at https://web.estimoji.nl/dev (desktop mode)"),"invalidGameErrorEmoji",Z.D("\ud83e\udd14"),"invalidGameErrorSubTitle",Z.D("Make sure you try the right game ID."),"invalidGameErrorTitle",Z.D("Mmm, game doesn't exist"),"invitePlayers",Z.D("Players can join by using game ID or scanning the QR-Code"),"joinGame",Z.D("Joining game"),"joinGameTab",Z.D(s),"kickUserConfirmSubTitle",B.atH(),"kickUserConfirmTitle",Z.D("Kick Player"),"leaveFeedback",Z.D("Leave your feedback"),"leaveGameConfirmSubTitle",Z.D("Do you want to leave the game?"),"leaveGameConfirmTitle",Z.D("Quit Game"),"lobbyScreenCreateGameFormButton",Z.D("Create"),"lobbyScreenCreateGameFormCaption",Z.D("Create a game"),"lobbyScreenCreateGameFormGameTypeField",Z.D("Game type"),"lobbyScreenCreateGameFormNameField",Z.D("Game name"),"lobbyScreenJoinGameFormButton",Z.D("Join"),"lobbyScreenJoinGameFormCaption",Z.D(s),"lobbyScreenJoinGameFormGameIdField",Z.D("Game ID"),"lobbyScreenJoinGameFormNameField",Z.D("Player name"),"lobbyScreenSubTitle",Z.D("You can create and run a new game as a master or join an existing one as a player"),"lobbyScreenTitle",Z.D("Let\u2019s estimate together!"),"missingCameraPermissionErrorEmoji",Z.D("\ud83d\udcf7"),"missingCameraPermissionErrorSubTitle",Z.D("To scan QR code application need an access to your camera"),"missingCameraPermissionErrorTitle",Z.D("No camera access"),"mobileDownloadLabel",Z.D("Download estimoji for mobile:"),"offlineErrorEmoji",Z.D("\ud83d\ude22"),"offlineErrorSubTitle",Z.D("Check your internet connection."),"offlineErrorTitle",Z.D("Ups, you\u2019re offline"),"ok",Z.D("Ok"),"openSettingsButton",Z.D("Open settings"),"playCardTab",Z.D("Play cards"),"reconnectButton",Z.D("Join again"),"removedFromGameErrorEmoji",Z.D("\ud83d\ude32"),"removedFromGameErrorSubTitle",Z.D("Beg your game master for mercy."),"removedFromGameErrorTitle",Z.D("Auch, kicked out from game"),"selectCard",Z.D("Select card to estimate:"),"sendFeedback",Z.D("Submit"),"terms",Z.D("Terms of use"),"termsCheckboxLabelMarkdown",Z.D("I've read and accepted the [Terms of Use and Privacy Policy](#terms)"),"topicInputHint",Z.D("Your topic here..."),"welcomeCaption",Z.D("Welcome to Estimoji")],u.N,u.BO)},
+agr:function(a){var t="About NGTI",s="Feedback",r="Join a game"
+return P.aD(["about",Z.D("About"),"aboutAppLink",Z.D("About Estimoji"),"aboutCompanyLink",Z.D(t),"appDesc",Z.D("Estimate the complexity of a software feature and the efforts to implemented it. Reach consensus with estimoji and make sure that all your team is on the same page."),"appInfo",Z.D("About App"),"authorInfo",Z.D(t),"authorInfoHeader",Z.D("\ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbc\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbc\u200d\ud83d\udc68\u200d\ud83c\udfa8\ud83d\ude4b\u200d\u2640\ufe0f"),"backButton",Z.D("Back"),"cancel",Z.D("Cancel"),"clearAllButton",Z.D("Clear All"),"continueButton",Z.D("Continue"),"creatingGame",Z.D("Creating game"),"doneButton",Z.D("Done"),"endGameConfirmSubTitle",Z.D("Do you want to end the game for you and all players?"),"endGameConfirmTitle",Z.D("End Game"),"error",Z.D("Oops, something went wrong"),"exit",Z.D("Quiting game"),"exitGame",Z.D("Finishing game"),"feedback",Z.D(s),"feedbackEmail",Z.D("Your email"),"feedbackEmailValidation",Z.D("A valid e-mail is required"),"feedbackFABText",Z.D(s),"feedbackMessage",Z.D("Your suggestions and bug reports are more than welcome"),"feedbackMessageValidation",Z.D("At least 8 characters are required"),"feedbackName",Z.D("Your name"),"feedbackNameValidation",Z.D('At least 3 "A-Z" characters are required'),"gameIdLabel",Z.D("Game: "),"generalError",Z.D("\ud83e\udd26\u200d\u2642\ufe0f\n\nUnexpected error here!\n\nThis is embarrasing... please, check your network or look for another dev..."),"howToCreateGame",Z.D("Game masters need big screens!\nCreate and run a game from your desktop at https://estimoji.nl/dev"),"invalidGameErrorEmoji",Z.D("\ud83e\udd14"),"invalidGameErrorSubTitle",Z.D("Make sure you try the right game ID."),"invalidGameErrorTitle",Z.D("Mmm, game doesn't exist"),"invitePlayers",Z.D("Players can join by using game ID or scanning the QR-Code"),"joinGame",Z.D("Joining game"),"joinGameTab",Z.D(r),"kickUserConfirmSubTitle",B.atH(),"kickUserConfirmTitle",Z.D("Kick Player"),"leaveFeedback",Z.D("Leave your feedback"),"leaveGameConfirmSubTitle",Z.D("Do you want to leave the game?"),"leaveGameConfirmTitle",Z.D("Quit Game"),"lobbyScreenCreateGameFormButton",Z.D("Create"),"lobbyScreenCreateGameFormCaption",Z.D("Create a game"),"lobbyScreenCreateGameFormGameTypeField",Z.D("Game type"),"lobbyScreenCreateGameFormNameField",Z.D("Game name"),"lobbyScreenJoinGameFormButton",Z.D("Join"),"lobbyScreenJoinGameFormCaption",Z.D(r),"lobbyScreenJoinGameFormGameIdField",Z.D("Game ID"),"lobbyScreenJoinGameFormNameField",Z.D("Player's nickname"),"lobbyScreenSubTitle",Z.D("You can create and run a new game as a master or join an existing one as a player"),"lobbyScreenTitle",Z.D("Let\u2019s estimate together!"),"missingCameraPermissionErrorEmoji",Z.D("\ud83d\udcf7"),"missingCameraPermissionErrorSubTitle",Z.D("Estimoji needs access to your camera to launch the QR-code scanner."),"missingCameraPermissionErrorTitle",Z.D("Pff... No camera access"),"mobileDownloadLabel",Z.D("Download estimoji for mobile:"),"offlineErrorEmoji",Z.D("\ud83d\ude22"),"offlineErrorSubTitle",Z.D("Check your internet connection."),"offlineErrorTitle",Z.D("Oops, you\u2019re offline"),"ok",Z.D("Ok"),"openSettingsButton",Z.D("Open Settings"),"playCardTab",Z.D("Play cards"),"reconnectButton",Z.D("Join again"),"removedFromGameErrorEmoji",Z.D("\ud83d\ude32"),"removedFromGameErrorSubTitle",Z.D("Beg your game master for mercy."),"removedFromGameErrorTitle",Z.D("Auch, kicked out from game"),"selectCard",Z.D("Select a card to estimate:"),"sendFeedback",Z.D("Submit"),"terms",Z.D("Terms of use"),"termsCheckboxLabelMarkdown",Z.D("I've read and accepted the [Terms of Use and Privacy Policy](#terms)"),"topicInputHint",Z.D("What is the task to estimate?"),"welcomeCaption",Z.D("Welcome to Estimoji")],u.N,u.BO)},
 Hj:function Hj(a){this.a=a},
 UL:function UL(a,b,c){this.a=a
 this.b=b
@@ -14551,8 +14551,8 @@ return t!=null?t:C.T},
 acH:function(a,b,c){var t=c==null?null:c.b,s=t==null?null:t.a
 C.vT.fB(a,P.aD(["previousRouteName",s,"routeName",b.b.a],u.N,u.z),!1,u.H)}},S={a1R:function a1R(){},
 aos:function(a){return"Do you want to kick player '"+H.c(a)+"'?"},
-agq:function(a){var t="Feedback",s="Join a game"
-return P.aD(["about",Z.D("About"),"aboutAppLink",Z.D("About Estimoji"),"aboutCompanyLink",Z.D("About NGTI"),"appDesc",Z.D("Estimoji allows teams to estimate the complexity of a software feature and the efforts required to implemented it. The goal of the game is not only to reach consensus, but also to make sure that all the players are on the same page."),"appInfo",Z.D("App Info"),"authorInfo",Z.D("NGTI Info"),"authorInfoHeader",Z.D("\ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbc\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbc\u200d"),"backButton",Z.D("Back"),"cancel",Z.D("Cancel"),"clearAllButton",Z.D("Clear All"),"continueButton",Z.D("Continue"),"creatingGame",Z.D("Creating game"),"doneButton",Z.D("Done"),"endGameConfirmSubTitle",Z.D("Do you want to end the game for you and all players?"),"endGameConfirmTitle",Z.D("End Game"),"error",Z.D("Oops, something went wrong"),"exit",Z.D("Quiting game"),"exitGame",Z.D("Finishing game"),"feedback",Z.D(t),"feedbackEmail",Z.D("Your email"),"feedbackEmailValidation",Z.D("Should comply with email format"),"feedbackFABText",Z.D(t),"feedbackMessage",Z.D("Your suggestions and bug reports are more than welcome"),"feedbackMessageValidation",Z.D("Minimum 8 characters"),"feedbackName",Z.D("Your name"),"feedbackNameValidation",Z.D("Minimum 3 A to Z characters"),"gameIdLabel",Z.D("Game: "),"generalError",Z.D("\nOooops!\n\nError!\n\nThis is embarrasing.\n\nCheck network...\nOr look for another programmer..."),"howToCreateGame",Z.D("You can create an estimation session at https://web.estimoji.nl/dev (desktop mode)"),"invalidGameErrorEmoji",Z.D("\ud83e\udd14"),"invalidGameErrorSubTitle",Z.D("Make sure you try the right game ID."),"invalidGameErrorTitle",Z.D("Mmm, game doesn't exist"),"invitePlayers",Z.D("Players can join by using game ID or scanning the QR-Code"),"joinGame",Z.D("Joining game"),"joinGameTab",Z.D(s),"kickUserConfirmSubTitle",S.atJ(),"kickUserConfirmTitle",Z.D("Kick Player"),"leaveFeedback",Z.D("Leave your feedback"),"leaveGameConfirmSubTitle",Z.D("Do you want to leave the game?"),"leaveGameConfirmTitle",Z.D("Quit Game"),"lobbyScreenCreateGameFormButton",Z.D("Create"),"lobbyScreenCreateGameFormCaption",Z.D("Create a game"),"lobbyScreenCreateGameFormGameTypeField",Z.D("Game type"),"lobbyScreenCreateGameFormNameField",Z.D("Game name"),"lobbyScreenJoinGameFormButton",Z.D("Join"),"lobbyScreenJoinGameFormCaption",Z.D(s),"lobbyScreenJoinGameFormGameIdField",Z.D("Game ID"),"lobbyScreenJoinGameFormNameField",Z.D("Player name"),"lobbyScreenSubTitle",Z.D("You can create and run a new game as a master or join an existing one as a player"),"lobbyScreenTitle",Z.D("Let\u2019s estimate together!"),"missingCameraPermissionErrorEmoji",Z.D("\ud83d\udcf7"),"missingCameraPermissionErrorSubTitle",Z.D("To scan QR code application need an access to your camera"),"missingCameraPermissionErrorTitle",Z.D("No camera access"),"mobileDownloadLabel",Z.D("Download estimoji for mobile:"),"offlineErrorEmoji",Z.D("\ud83d\ude22"),"offlineErrorSubTitle",Z.D("Check your internet connection."),"offlineErrorTitle",Z.D("Ups, you\u2019re offline"),"ok",Z.D("Ok"),"openSettingsButton",Z.D("Open settings"),"playCardTab",Z.D("Play cards"),"reconnectButton",Z.D("Join again"),"removedFromGameErrorEmoji",Z.D("\ud83d\ude32"),"removedFromGameErrorSubTitle",Z.D("Beg your game master for mercy."),"removedFromGameErrorTitle",Z.D("Auch, kicked out from game"),"selectCard",Z.D("Select card to estimate:"),"sendFeedback",Z.D("Submit"),"terms",Z.D("Terms of use"),"termsCheckboxLabelMarkdown",Z.D("I've read and accepted the [Terms of Use and Privacy Policy](#terms)"),"topicInputHint",Z.D("Your topic here..."),"welcomeCaption",Z.D("Welcome to Estimoji")],u.N,u.BO)},
+agq:function(a){var t="About NGTI",s="Feedback",r="Join a game"
+return P.aD(["about",Z.D("About"),"aboutAppLink",Z.D("About Estimoji"),"aboutCompanyLink",Z.D(t),"appDesc",Z.D("Estimate the complexity of a software feature and the efforts to implemented it. Reach consensus with estimoji and make sure that all your team is on the same page."),"appInfo",Z.D("About App"),"authorInfo",Z.D(t),"authorInfoHeader",Z.D("\ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbc\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbc\u200d\ud83d\udc68\u200d\ud83c\udfa8\ud83d\ude4b\u200d\u2640\ufe0f"),"backButton",Z.D("Back"),"cancel",Z.D("Cancel"),"clearAllButton",Z.D("Clear All"),"continueButton",Z.D("Continue"),"creatingGame",Z.D("Creating game"),"doneButton",Z.D("Done"),"endGameConfirmSubTitle",Z.D("Do you want to end the game for you and all players?"),"endGameConfirmTitle",Z.D("End Game"),"error",Z.D("Oops, something went wrong"),"exit",Z.D("Quiting game"),"exitGame",Z.D("Finishing game"),"feedback",Z.D(s),"feedbackEmail",Z.D("Your email"),"feedbackEmailValidation",Z.D("A valid e-mail is required"),"feedbackFABText",Z.D(s),"feedbackMessage",Z.D("Your suggestions and bug reports are more than welcome"),"feedbackMessageValidation",Z.D("At least 8 characters are required"),"feedbackName",Z.D("Your name"),"feedbackNameValidation",Z.D('At least 3 "A-Z" characters are required'),"gameIdLabel",Z.D("Game: "),"generalError",Z.D("\ud83e\udd26\u200d\u2642\ufe0f\n\nUnexpected error here!\n\nThis is embarrasing... please, check your network or look for another dev..."),"howToCreateGame",Z.D("Game masters need big screens!\nCreate and run a game from your desktop at https://estimoji.nl/dev"),"invalidGameErrorEmoji",Z.D("\ud83e\udd14"),"invalidGameErrorSubTitle",Z.D("Make sure you try the right game ID."),"invalidGameErrorTitle",Z.D("Mmm, game doesn't exist"),"invitePlayers",Z.D("Players can join by using game ID or scanning the QR-Code"),"joinGame",Z.D("Joining game"),"joinGameTab",Z.D(r),"kickUserConfirmSubTitle",S.atJ(),"kickUserConfirmTitle",Z.D("Kick Player"),"leaveFeedback",Z.D("Leave your feedback"),"leaveGameConfirmSubTitle",Z.D("Do you want to leave the game?"),"leaveGameConfirmTitle",Z.D("Quit Game"),"lobbyScreenCreateGameFormButton",Z.D("Create"),"lobbyScreenCreateGameFormCaption",Z.D("Create a game"),"lobbyScreenCreateGameFormGameTypeField",Z.D("Game type"),"lobbyScreenCreateGameFormNameField",Z.D("Game name"),"lobbyScreenJoinGameFormButton",Z.D("Join"),"lobbyScreenJoinGameFormCaption",Z.D(r),"lobbyScreenJoinGameFormGameIdField",Z.D("Game ID"),"lobbyScreenJoinGameFormNameField",Z.D("Player's nickname"),"lobbyScreenSubTitle",Z.D("You can create and run a new game as a master or join an existing one as a player"),"lobbyScreenTitle",Z.D("Let\u2019s estimate together!"),"missingCameraPermissionErrorEmoji",Z.D("\ud83d\udcf7"),"missingCameraPermissionErrorSubTitle",Z.D("Estimoji needs access to your camera to launch the QR-code scanner."),"missingCameraPermissionErrorTitle",Z.D("Pff... No camera access"),"mobileDownloadLabel",Z.D("Download estimoji for mobile:"),"offlineErrorEmoji",Z.D("\ud83d\ude22"),"offlineErrorSubTitle",Z.D("Check your internet connection."),"offlineErrorTitle",Z.D("Oops, you\u2019re offline"),"ok",Z.D("Ok"),"openSettingsButton",Z.D("Open Settings"),"playCardTab",Z.D("Play cards"),"reconnectButton",Z.D("Join again"),"removedFromGameErrorEmoji",Z.D("\ud83d\ude32"),"removedFromGameErrorSubTitle",Z.D("Beg your game master for mercy."),"removedFromGameErrorTitle",Z.D("Auch, kicked out from game"),"selectCard",Z.D("Select a card to estimate:"),"sendFeedback",Z.D("Submit"),"terms",Z.D("Terms of use"),"termsCheckboxLabelMarkdown",Z.D("I've read and accepted the [Terms of Use and Privacy Policy](#terms)"),"topicInputHint",Z.D("What is the task to estimate?"),"welcomeCaption",Z.D("Welcome to Estimoji")],u.N,u.BO)},
 Hi:function Hi(a){this.a=a},
 IG:function(a){var t=new S.vw(new R.au(H.a([],u.uO),u.zc),new R.au(H.a([],u.u),u.A),0)
 t.c=a
@@ -30780,7 +30780,7 @@ T.ln.prototype={
 ai:function(){return new T.Ah(C.o)}}
 T.Ah.prototype={
 F:function(a){var t=this,s=null,r=4292401368,q=u.a
-return M.f9(X.ok(a,s,s,s,t,s),new T.ay(C.AR,T.bp(H.a([t.qY(T.ah("App Info",L.a7(a,C.l,q).a,"appInfo",s,s),new T.Q_(t,a)),M.ar(s,new T.bi(9999,1,s,s),new P.A(r),s,s,s,s,s,s,s,s),t.qY(T.ah("NGTI Info",L.a7(a,C.l,q).a,"authorInfo",s,s),new T.Q0(t,a)),M.ar(s,new T.bi(9999,1,s,s),new P.A(r),s,s,s,s,s,s,s,s),t.qY(T.ah("Terms of use",L.a7(a,C.l,q).a,"terms",s,s),new T.Q1(t,a)),M.ar(s,new T.bi(9999,1,s,s),new P.A(r),s,s,s,s,s,s,s,s),t.qY(T.ah("Feedback",L.a7(a,C.l,q).a,"feedback",s,s),new T.Q2(t,a))],u.p),C.A,C.G,C.D),s),s,s,s)},
+return M.f9(X.ok(a,s,s,s,t,s),new T.ay(C.AR,T.bp(H.a([t.qY(T.ah("About App",L.a7(a,C.l,q).a,"appInfo",s,s),new T.Q_(t,a)),M.ar(s,new T.bi(9999,1,s,s),new P.A(r),s,s,s,s,s,s,s,s),t.qY(T.ah("About NGTI",L.a7(a,C.l,q).a,"authorInfo",s,s),new T.Q0(t,a)),M.ar(s,new T.bi(9999,1,s,s),new P.A(r),s,s,s,s,s,s,s,s),t.qY(T.ah("Terms of use",L.a7(a,C.l,q).a,"terms",s,s),new T.Q1(t,a)),M.ar(s,new T.bi(9999,1,s,s),new P.A(r),s,s,s,s,s,s,s,s),t.qY(T.ah("Feedback",L.a7(a,C.l,q).a,"feedback",s,s),new T.Q2(t,a))],u.p),C.A,C.G,C.D),s),s,s,s)},
 mH:function(){return T.ah("About",L.a7(this.c,C.l,u.a).a,"about",null,null)},
 l6:function(){return!1},
 qY:function(a,b){var t=null
@@ -30814,7 +30814,7 @@ K.At.prototype={
 F:function(a){var t=null,s=X.ok(a,t,t,t,this,t),r=$.nI(),q=u.N
 return M.f9(s,new T.ay(C.ow,T.bp(H.a([B.Vj(new K.Qx(),r.oK("assets/VERSION.txt"),q),L.aB("Copyright 2019 NGT International BV.\nAll rights reserved.",t,t,t,K.a8(a,!1).N.e,C.ao),new T.ay(new V.Y(0,40,0,0),L.aB("Credits",t,t,t,K.a8(a,!1).N.d,t),t),new T.cZ(1,C.al,new T.ay(C.kJ,B.Vj(new K.Qy(),r.oK("assets/CREDIT.md"),q),t),t)],u.p),C.A,C.G,C.D),t),t,t,t)},
 pc:function(){return new K.Qz(this)},
-mH:function(){return T.ah("App Info",L.a7(this.c,C.l,u.a).a,"appInfo",null,null)},
+mH:function(){return T.ah("About App",L.a7(this.c,C.l,u.a).a,"appInfo",null,null)},
 l6:function(){return!1},
 dO:function(){return new K.PY(new P.cn(null,null,u.C))},
 dZ:function(a){}}
@@ -30856,13 +30856,13 @@ ai:function(){return new O.Hz(C.o)}}
 O.Hz.prototype={
 F:function(a){var t,s=null,r=X.ok(a,s,s,s,this,s),q=u.a,p=L.a7(a,C.l,q)
 p=L.aB(T.ah("About NGTI",p.a,"aboutCompanyLink",s,s),s,s,s,A.aC(s,s,s,s,s,s,s,s,s,s,s,40,s,C.bJ,s,s,!0,s,s,s,s,s,s),s)
-q=T.ah("\ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbc\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbc\u200d",L.a7(a,C.l,q).a,"authorInfoHeader",s,s)
+q=T.ah("\ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbc\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbc\u200d\ud83d\udc68\u200d\ud83c\udfa8\ud83d\ude4b\u200d\u2640\ufe0f",L.a7(a,C.l,q).a,"authorInfoHeader",s,s)
 t=A.aC(s,s,s,s,s,s,s,s,s,s,s,36,s,s,s,s,!0,s,s,s,s,s,s)
 q=new T.ay(C.AU,T.bp(H.a([p,new T.bi(s,25,s,s),L.aB(q,s,s,s,t,s),this.Yu(a)],u.p),C.bl,C.G,C.D),s)
 return M.f9(r,q,s,s,s)},
 Yu:function(a){return new T.cZ(1,C.al,new T.ay(C.kJ,E.pN(B.Vj(new O.Ze(),$.nI().oK("assets/AUTHOR.md"),u.N),null,C.q),null),null)},
 pc:function(){return new O.Zf(this)},
-mH:function(){return T.ah("NGTI Info",L.a7(this.c,C.l,u.a).a,"authorInfo",null,null)},
+mH:function(){return T.ah("About NGTI",L.a7(this.c,C.l,u.a).a,"authorInfo",null,null)},
 l6:function(){return!1},
 dO:function(){return new O.PX(new P.cn(null,null,u.C))},
 dZ:function(a){}}
@@ -30892,7 +30892,7 @@ M.Kp.prototype={
 F:function(a){var t=null
 return M.f9(X.ok(a,t,t,t,this,t),new T.ay(C.ow,T.bp(H.a([new T.cZ(1,C.al,new T.ay(C.kJ,B.Vj(new M.a2r(),$.nI().oK("assets/TERMS.md"),u.N),t),t)],u.p),C.A,C.G,C.D),t),t,t,t)},
 pc:function(){return new M.a2s(this)},
-mH:function(){return T.ah("App Info",L.a7(this.c,C.l,u.a).a,"appInfo",null,null)},
+mH:function(){return T.ah("About App",L.a7(this.c,C.l,u.a).a,"appInfo",null,null)},
 l6:function(){return!1},
 dO:function(){return new M.PW(new P.cn(null,null,u.C))},
 dZ:function(a){}}
@@ -31072,7 +31072,7 @@ if(t===0){t=p.Yj()
 p.z=t
 r=T.bp(H.a([t,new T.bi(o,10,o,o),p.Yo()],u.p),C.A,C.b9,C.D)
 p.c.a0(u.M).Q.dJ("Game Gallery")}else if(t===1){t=H.a([],u.p)
-if(p.e.iq())t.push(new T.ay(C.aO,L.aB(T.ah("Select card to estimate:",L.a7(p.c,C.l,u.a).a,"selectCard",o,o),o,o,o,A.aC(o,o,C.be,o,o,o,o,o,o,o,o,18,o,o,o,o,!0,o,o,o,o,o,o),o),o))
+if(p.e.iq())t.push(new T.ay(C.aO,L.aB(T.ah("Select a card to estimate:",L.a7(p.c,C.l,u.a).a,"selectCard",o,o),o,o,o,A.aC(o,o,C.be,o,o,o,o,o,o,o,o,18,o,o,o,o,!0,o,o,o,o,o,o),o),o))
 s=p.c
 if(F.b8(s,!1).a.a===F.b8(p.c,!1).a.gIx())q=5
 else q=p.cy.length<12?2:3
@@ -31360,14 +31360,14 @@ s=u.N
 G.atO(a.a0(q).y,P.aD(["name",r.d.a.a,"email",r.e.a.a,"message",r.f.a.a],s,s)).bJ(new E.UG(t),u.H)
 K.YV(a,u.K)}}}
 E.UE.prototype={
-$1:function(a){return J.fp(a).length<8?T.ah("Minimum 8 characters",L.a7(this.a,C.l,u.a).a,"feedbackMessageValidation",null,null):null},
+$1:function(a){return J.fp(a).length<8?T.ah("At least 8 characters are required",L.a7(this.a,C.l,u.a).a,"feedbackMessageValidation",null,null):null},
 $S:6}
 E.UD.prototype={
-$1:function(a){return!V.any(a)?T.ah("Should comply with email format",L.a7(this.a,C.l,u.a).a,"feedbackEmailValidation",null,null):null},
+$1:function(a){return!V.any(a)?T.ah("A valid e-mail is required",L.a7(this.a,C.l,u.a).a,"feedbackEmailValidation",null,null):null},
 $S:6}
 E.UF.prototype={
 $1:function(a){var t=P.W("(.*[a-z]){3,}",!1,!1),s=J.fp(a)
-return!t.b.test(s)?T.ah("Minimum 3 A to Z characters",L.a7(this.a,C.l,u.a).a,"feedbackNameValidation",null,null):null},
+return!t.b.test(s)?T.ah('At least 3 "A-Z" characters are required',L.a7(this.a,C.l,u.a).a,"feedbackNameValidation",null,null):null},
 $S:6}
 E.UG.prototype={
 $1:function(a){return this.a.a3o("Submitted",B.ajm(U.aio(a.e).c.a.i(0,"charset")).dc(0,a.x))},
@@ -31522,7 +31522,7 @@ wP:function(a){return new Y.Jw(160,55,new V.Y(0,30,0,0),T.ah("Join",L.a7(a,C.l,u
 Hk:function(a){return new T.ay(new V.Y(56,0,56,0),T.bp(a,C.bl,C.G,C.aF),null)}}
 G.SG.prototype={
 $2:function(a,b){var t=null,s=b.d,r=u.a,q=L.aB(T.ah("Let\u2019s estimate together!",L.a7(a,C.l,r).a,"lobbyScreenTitle",t,t),t,t,t,K.a8(a,!1).N.b,t),p=L.aB(T.ah("You can create and run a new game as a master or join an existing one as a player",L.a7(a,C.l,r).a,"lobbyScreenSubTitle",t,t),t,t,t,K.a8(a,!1).N.f,t),o=this.a,n=u.p,m=o.Hk(H.a([L.aB(T.ah("Create a game",L.a7(a,C.l,r).a,"lobbyScreenCreateGameFormCaption",t,t),t,t,t,K.a8(a,!1).N.c,t),G.oI(o.f,55,t,T.ah("Game name",L.a7(a,C.l,r).a,"lobbyScreenCreateGameFormNameField",t,t),11,1,t),new F.DL(T.ah("Game type",L.a7(a,C.l,r).a,"lobbyScreenCreateGameFormGameTypeField",t,t),o.c.f,o.r,t),o.Yn(a)],n))
-o=o.Hk(H.a([L.aB(T.ah("Join a game",L.a7(a,C.l,r).a,"lobbyScreenJoinGameFormCaption",t,t),t,t,t,K.a8(a,!1).N.c,t),G.oI(o.d,55,t,T.ah("Player name",L.a7(a,C.l,r).a,"lobbyScreenJoinGameFormNameField",t,t),11,1,t),G.oI(o.e,55,t,T.ah("Game ID",L.a7(a,C.l,r).a,"lobbyScreenJoinGameFormGameIdField",t,t),11,1,t),o.wP(a)],n))
+o=o.Hk(H.a([L.aB(T.ah("Join a game",L.a7(a,C.l,r).a,"lobbyScreenJoinGameFormCaption",t,t),t,t,t,K.a8(a,!1).N.c,t),G.oI(o.d,55,t,T.ah("Player's nickname",L.a7(a,C.l,r).a,"lobbyScreenJoinGameFormNameField",t,t),11,1,t),G.oI(o.e,55,t,T.ah("Game ID",L.a7(a,C.l,r).a,"lobbyScreenJoinGameFormGameIdField",t,t),11,1,t),o.wP(a)],n))
 return E.pN(new T.dB(new S.ak(0,1/0,s,1/0),M.ar(C.dc,T.bp(H.a([q,p,new E.wr(S.Ki(N.a2h(new Y.cg(C.h6,1,C.N)),H.a([new S.eI(t,H.a([m,o],n))],u.BR),t,C.e5,C.fH),new V.Y(4,43,4,43),892,t)],n),C.A,C.G,C.aF),t,t,t,t,t,t,new V.Y(0,83,0,83),t,t),t),t,C.q)},
 $S:76}
 G.SE.prototype={
@@ -31545,11 +31545,11 @@ r=Z.a2v(!0,!1,s,this.d,s,s,2,L.ER(s,s,new V.Y(14,16,14,16),s,s,s,s,!0,new F.eE(4
 t=u.p
 return M.ar(s,T.bp(H.a([p,M.ar(s,T.d0(H.a([new T.cZ(1,C.al,r,s),new T.bi(0,s,s,s)],t),C.A,C.G,C.D),s,s,s,s,60,s,s,s,s)],t),C.bl,C.G,C.D),s,s,s,s,s,new V.Y(0,q,0,0),s,s,s)}}
 A.Ho.prototype={
-F:function(a){var t,s=this,r=null,q=F.b8(a,!1).a.gcG()/4/3,p=F.b8(a,!1).a.gcG()/4,o=u.a,n=L.aB(T.ah("Join a game",L.a7(a,C.l,o).a,"lobbyScreenJoinGameFormCaption",r,r),r,r,r,K.a8(a,!1).N.c,r),m=G.oI(s.d,50,r,T.ah("Player name",L.a7(a,C.l,o).a,"lobbyScreenJoinGameFormNameField",r,r),11,1,r),l=s.c,k=l.n6()
+F:function(a){var t,s=this,r=null,q=F.b8(a,!1).a.gcG()/4/3,p=F.b8(a,!1).a.gcG()/4,o=u.a,n=L.aB(T.ah("Join a game",L.a7(a,C.l,o).a,"lobbyScreenJoinGameFormCaption",r,r),r,r,r,K.a8(a,!1).N.c,r),m=G.oI(s.d,50,r,T.ah("Player's nickname",L.a7(a,C.l,o).a,"lobbyScreenJoinGameFormNameField",r,r),11,1,r),l=s.c,k=l.n6()
 k=B.pT(new A.Yp(s),l.jR(),k,u.N)
 l=s.wP(a)
 t=E.md(A.aC(r,r,C.bG,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,1)
-return M.f9(r,M.ar(r,E.pN(new T.ay(new V.Y(q,p,q,p),T.bp(H.a([n,m,k,l,M.Fs(T.ah("You can create an estimation session at https://web.estimoji.nl/dev (desktop mode)",L.a7(a,C.l,o).a,"howToCreateGame",r,r),new A.Yq(),C.cq,!0,t)],u.p),C.A,C.G,C.D),r),r,C.q),r,new S.ak(1/0,1/0,1/0,1/0),r,r,r,r,r,r,r),r,r,r)},
+return M.f9(r,M.ar(r,E.pN(new T.ay(new V.Y(q,p,q,p),T.bp(H.a([n,m,k,l,M.Fs(T.ah("Game masters need big screens!\nCreate and run a game from your desktop at https://estimoji.nl/dev",L.a7(a,C.l,o).a,"howToCreateGame",r,r),new A.Yq(),C.cq,!0,t)],u.p),C.A,C.G,C.D),r),r,C.q),r,new S.ak(1/0,1/0,1/0,1/0),r,r,r,r,r,r,r),r,r,r)},
 wP:function(a){return U.IC(!1,55,new V.Y(0,30,0,30),new A.Yn(this,a),T.ah("Join",L.a7(a,C.l,u.a).a,"lobbyScreenJoinGameFormButton",null,null),1/0)}}
 A.Yp.prototype={
 $2:function(a,b){var t,s=null,r=b.b
@@ -31591,20 +31591,20 @@ ai:function(){var t=null,s=A.aC(t,t,t,t,t,t,t,t,t,t,t,80,t,t,t,t,!0,t,t,t,t,t,t)
 return new L.Bb(new X.pH(s,A.aC(t,t,t,t,t,t,t,t,t,t,t,27,t,t,t,t,!0,t,t,t,t,t,t),A.aC(t,t,C.h5,t,t,t,t,t,t,t,t,15,t,t,t,t,!0,t,t,t,t,t,t),A.aC(t,t,t,t,t,t,t,t,t,t,t,19,t,t,t,t,!0,t,t,t,t,t,t)),C.o)}}
 L.Bb.prototype={
 rz:function(){return T.ah("\ud83d\udcf7",L.a7(this.c,C.l,u.a).a,"missingCameraPermissionErrorEmoji",null,null)},
-rA:function(){return T.ah("To scan QR code application need an access to your camera",L.a7(this.c,C.l,u.a).a,"missingCameraPermissionErrorSubTitle",null,null)},
-rB:function(){return T.ah("No camera access",L.a7(this.c,C.l,u.a).a,"missingCameraPermissionErrorTitle",null,null)},
+rA:function(){return T.ah("Estimoji needs access to your camera to launch the QR-code scanner.",L.a7(this.c,C.l,u.a).a,"missingCameraPermissionErrorSubTitle",null,null)},
+rB:function(){return T.ah("Pff... No camera access",L.a7(this.c,C.l,u.a).a,"missingCameraPermissionErrorTitle",null,null)},
 dO:function(){return new K.k1(new P.cn(null,null,u.C))},
 dZ:function(a){},
 t5:function(){this.c.a0(u.M).Q.co("GoToSettings")
 Q.abB()},
-wW:function(){return T.ah("Open settings",L.a7(this.c,C.l,u.a).a,"openSettingsButton",null,null)}}
+wW:function(){return T.ah("Open Settings",L.a7(this.c,C.l,u.a).a,"openSettingsButton",null,null)}}
 N.mq.prototype={
 ai:function(){var t=null,s=A.aC(t,t,t,t,t,t,t,t,t,t,t,80,t,t,t,t,!0,t,t,t,t,t,t)
 return new N.HF(new X.pH(s,A.aC(t,t,t,t,t,t,t,t,t,t,t,27,t,t,t,t,!0,t,t,t,t,t,t),A.aC(t,t,C.h5,t,t,t,t,t,t,t,t,15,t,t,t,t,!0,t,t,t,t,t,t),A.aC(t,t,t,t,t,t,t,t,t,t,t,19,t,t,t,t,!0,t,t,t,t,t,t)),C.o)}}
 N.HF.prototype={
 rz:function(){return T.ah("\ud83d\ude22",L.a7(this.c,C.l,u.a).a,"offlineErrorEmoji",null,null)},
 rA:function(){return T.ah("Check your internet connection.",L.a7(this.c,C.l,u.a).a,"offlineErrorSubTitle",null,null)},
-rB:function(){return T.ah("Ups, you\u2019re offline",L.a7(this.c,C.l,u.a).a,"offlineErrorTitle",null,null)},
+rB:function(){return T.ah("Oops, you\u2019re offline",L.a7(this.c,C.l,u.a).a,"offlineErrorTitle",null,null)},
 dO:function(){return new K.k1(new P.cn(null,null,u.C))},
 dZ:function(a){},
 t5:function(){this.c.a0(u.M).Q.co("Back")
@@ -31694,7 +31694,7 @@ r=u.p
 q=H.a([new T.bi(78,o,new D.JR(t,36,o),o),S.Ki(N.a2h(new Y.cg(C.h6,1,C.N)),H.a([new S.eI(o,H.a([new V.JS(37,new V.Y(17,0,17,0),T.ah("Done",L.a7(p.c,C.l,s).a,"doneButton",o,o),new D.VS(p),o),U.acO(37,new V.Y(17,0,17,0),new D.VT(p),T.ah("Clear All",L.a7(p.c,C.l,s).a,"clearAllButton",o,o))],r))],u.BR),n,C.e5,C.fH)],r)
 F.aov(q,p.e)
 n=T.d0(q,C.A,C.G,C.aF)
-s=T.ah("Your topic here...",L.a7(p.c,C.l,s).a,"topicInputHint",o,o)
+s=T.ah("What is the task to estimate?",L.a7(p.c,C.l,s).a,"topicInputHint",o,o)
 return M.ar(o,T.bp(H.a([new T.bi(o,43,o,o),n,new T.bi(o,25,o,o),new T.cA(C.z,o,o,new T.ay(C.AN,Z.a2v(!0,!1,o,p.ch,o,o,2,L.ER(o,C.k4,o,o,o,o,o,!0,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,A.aC(o,o,new P.A(4291611852),o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o),s,o,o,o,o,o,o,o,o,o,o,o,o,o,o),!0,!0,o,!1,o,o,o,o,o,!0,1,o,!1,o,o,o,o,!1,C.eg,o,o,o,o,A.aC(o,o,new P.A(4284900966),o,o,o,o,o,o,o,o,21,o,o,o,o,!0,o,o,o,o,o,o),C.ao,o,C.fI,o,o,o),o),o),new T.bi(o,44,o,o)],r),C.A,C.G,C.D),o,o,o,o,o,o,o,o,o)},
 Yi:function(a,b,c,d){var t,s,r,q,p,o,n=null,m=u.p,l=H.a([],m),k=d-0.15,j=0,i=0
 do{t=H.a([],m)
@@ -31934,7 +31934,7 @@ K.lP.prototype={
 ai:function(){return new K.DW(C.o)}}
 K.DW.prototype={
 F:function(a){var t=null,s=u.a
-return M.f9(X.As(t,t,t,L.aB(T.ah("Oops, something went wrong",L.a7(this.c,C.l,s).a,"error",t,t),t,t,t,t,t)),M.ar(t,new T.cA(C.z,t,t,T.bp(H.a([U.kc(C.z,t,!1,t,t,new L.dm("assets/matublink.gif",t,t),t),L.aB(T.ah("\nOooops!\n\nError!\n\nThis is embarrasing.\n\nCheck network...\nOr look for another programmer...",L.a7(a,C.l,s).a,"generalError",t,t),t,t,t,A.aC(t,t,K.a8(a,!1).c,t,t,t,t,t,t,t,t,20,t,t,t,t,!0,t,t,t,t,t,t),C.ao)],u.p),C.A,C.b9,C.D),t),t,t,t,t,t,t,t,t,t),t,t,t)},
+return M.f9(X.As(t,t,t,L.aB(T.ah("Oops, something went wrong",L.a7(this.c,C.l,s).a,"error",t,t),t,t,t,t,t)),M.ar(t,new T.cA(C.z,t,t,T.bp(H.a([U.kc(C.z,t,!1,t,t,new L.dm("assets/matublink.gif",t,t),t),L.aB(T.ah("\ud83e\udd26\u200d\u2642\ufe0f\n\nUnexpected error here!\n\nThis is embarrasing... please, check your network or look for another dev...",L.a7(a,C.l,s).a,"generalError",t,t),t,t,t,A.aC(t,t,K.a8(a,!1).c,t,t,t,t,t,t,t,t,20,t,t,t,t,!0,t,t,t,t,t,t),C.ao)],u.p),C.A,C.b9,C.D),t),t,t,t,t,t,t,t,t,t),t,t,t)},
 dO:function(){return new K.k1(new P.cn(null,null,u.C))},
 dZ:function(a){}}
 K.k1.prototype={
@@ -31965,7 +31965,7 @@ $0:function(){this.a.d.hR()},
 $S:0}
 T.SQ.prototype={
 $2:function(a,b){var t=null,s=this.a,r=u.a,q=u.p
-return E.pN(new T.dB(new S.ak(0,1/0,b.d,1/0),M.ar(t,T.eb(C.dc,H.a([T.mA(t,T.bp(H.a([new E.wr(T.bp(H.a([L.aB(T.ah("Welcome to Estimoji",L.a7(a,C.l,r).a,"welcomeCaption",t,t),t,t,t,K.a8(a,!1).N.a,C.ao),L.aB(T.ah("Estimoji allows teams to estimate the complexity of a software feature and the efforts required to implemented it. The goal of the game is not only to reach consensus, but also to make sure that all the players are on the same page.",L.a7(a,C.l,r).a,"appDesc",t,t),t,t,t,K.a8(a,!1).N.y,C.ao),s.wM(a,179.7)],q),C.A,C.G,C.D),new V.Y(95,91,95,47),708,t),T.bp(H.a([L.aB(T.ah("Download estimoji for mobile:",L.a7(a,C.l,r).a,"mobileDownloadLabel",t,t),t,t,t,K.a8(a,!1).N.x,t),new T.ay(new V.Y(0,23,0,88),T.d0(H.a([s.Yc(),s.Yr()],q),C.A,C.G,C.aF),t)],q),C.A,C.vJ,C.aF),s.Y9(a)],q),C.A,C.G,C.aF),t,t,0,0,200,t),T.mA(t,new Z.pR(179.7,t),t,t,t,t,80,t)],q),C.aD,t,t),t,t,t,t,1000,t,t,t,t),t),t,C.q)},
+return E.pN(new T.dB(new S.ak(0,1/0,b.d,1/0),M.ar(t,T.eb(C.dc,H.a([T.mA(t,T.bp(H.a([new E.wr(T.bp(H.a([L.aB(T.ah("Welcome to Estimoji",L.a7(a,C.l,r).a,"welcomeCaption",t,t),t,t,t,K.a8(a,!1).N.a,C.ao),L.aB(T.ah("Estimate the complexity of a software feature and the efforts to implemented it. Reach consensus with estimoji and make sure that all your team is on the same page.",L.a7(a,C.l,r).a,"appDesc",t,t),t,t,t,K.a8(a,!1).N.y,C.ao),s.wM(a,179.7)],q),C.A,C.G,C.D),new V.Y(95,91,95,47),708,t),T.bp(H.a([L.aB(T.ah("Download estimoji for mobile:",L.a7(a,C.l,r).a,"mobileDownloadLabel",t,t),t,t,t,K.a8(a,!1).N.x,t),new T.ay(new V.Y(0,23,0,88),T.d0(H.a([s.Yc(),s.Yr()],q),C.A,C.G,C.aF),t)],q),C.A,C.vJ,C.aF),s.Y9(a)],q),C.A,C.G,C.aF),t,t,0,0,200,t),T.mA(t,new Z.pR(179.7,t),t,t,t,t,80,t)],q),C.aD,t,t),t,t,t,t,1000,t,t,t,t),t),t,C.q)},
 $S:76}
 T.SK.prototype={
 $0:function(){this.b.a0(u.M).Q.co("GoToCredits")
@@ -32001,7 +32001,7 @@ s=this.b
 r=s/3
 q=u.a
 p=u.p
-p=M.f9(X.ok(a,t.d,new V.Yv(t),!0,o,o),M.ar(o,new T.ay(new V.Y(r,0,r,0),new T.cA(C.z,o,o,T.bp(H.a([new Z.pR(s,o),T.bp(H.a([L.aB(T.ah("Welcome to Estimoji",L.a7(a,C.l,q).a,"welcomeCaption",o,o),o,o,o,K.a8(a,!1).N.c.ZC(3),C.ao),L.aB(T.ah("Estimoji allows teams to estimate the complexity of a software feature and the efforts required to implemented it. The goal of the game is not only to reach consensus, but also to make sure that all the players are on the same page.",L.a7(a,C.l,q).a,"appDesc",o,o),o,o,o,K.a8(a,!1).N.y,C.ao),t.wM(a,s)],p),C.A,C.G,C.D)],p),C.A,C.G,C.aF),o),o),o,o,o,o,o,o,o,o,o),o,o,o)
+p=M.f9(X.ok(a,t.d,new V.Yv(t),!0,o,o),M.ar(o,new T.ay(new V.Y(r,0,r,0),new T.cA(C.z,o,o,T.bp(H.a([new Z.pR(s,o),T.bp(H.a([L.aB(T.ah("Welcome to Estimoji",L.a7(a,C.l,q).a,"welcomeCaption",o,o),o,o,o,K.a8(a,!1).N.c.ZC(3),C.ao),L.aB(T.ah("Estimate the complexity of a software feature and the efforts to implemented it. Reach consensus with estimoji and make sure that all your team is on the same page.",L.a7(a,C.l,q).a,"appDesc",o,o),o,o,o,K.a8(a,!1).N.y,C.ao),t.wM(a,s)],p),C.A,C.G,C.D)],p),C.A,C.G,C.aF),o),o),o,o,o,o,o,o,o,o,o),o,o,o)
 t=p}else t=new V.K7(o)
 return t},
 $C:"$2",
