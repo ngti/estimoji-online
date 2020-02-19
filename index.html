@@ -1,13 +1,98 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE html>
 <html>
- <head>
-  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-  <meta http-equiv="Pragma" content="no-cache">
-  <meta http-equiv="Expires" content="0">
-  <meta http-equiv=Refresh content="0;url=/estimoji-online/m/">
- </head>
+<head>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
+    <!-- toolbar color fro chrome mobile -->
+    <meta name="theme-color" content="#f34e39">
+
+    <meta property="og:title" content="Estimoji">
+    <meta property="og:description" content="Estimate the complexity of a software feature and the efforts required to implemented it.">
+    <meta name="twitter:card" content="Estimate the complexity of a software feature and the efforts required to implemented it. Play estimoji, reach consensus and make sure that all the team is on the same page.">
+    <!--
+    300x200 good for whatsapp
+    https://stackoverflow.com/questions/25100917/showing-thumbnail-for-link-in-whatsapp-ogimage-meta-tag-doesnt-work
+    -->
+    <meta property="og:image" content="http://web.estimoji.nl/dev/assets/assets/meta_image_300x200.png">
+    <meta property="og:url" content="http://web.estimoji.nl/">
+
+    <meta charset="UTF-8">
+    <title>Estimoji</title>
+    <link rel="shortcut icon" href="assets/assets/favicon/favicon.ico" type="image/x-icon">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="assets/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <style>
+
+/*
+ https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/
+ */
+html {
+   width:100%;
+   height:100%;
+   background:url(assets/assets/Estimoji_loading.gif) center center no-repeat;
+   background-size: 240px 50px;
+}
+
+    </style>
+</head>
+<body>
+
+<script src="main.dart.js" type="application/javascript"></script>
+
+<script type="application/javascript">
+
+/*
+    function isMobile() {
+    var match = window.matchMedia || window.msMatchMedia;
+    if(match) {
+          // https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134
+        var mq = match("(hover: hover) and (pointer: fine)"); // use mouse or touchpad
+        return !mq.matches;
+    }
+    return false;
+}
+
+function loadjscssfile(filename, filetype){
+    if (filetype=="js"){ //if filename is a external JavaScript file
+        var fileref=document.createElement('script')
+        fileref.setAttribute("type","text/javascript")
+        fileref.setAttribute("src", filename)
+    }
+    else if (filetype=="css"){ //if filename is an external CSS file
+        var fileref=document.createElement("link")
+        fileref.setAttribute("rel", "stylesheet")
+        fileref.setAttribute("type", "text/css")
+        fileref.setAttribute("href", filename)
+    }
+    if (typeof fileref!="undefined")
+        document.getElementsByTagName("head")[0].appendChild(fileref)
+}
+
+function checkOrientation(){
+
+    var isLandscape = window.matchMedia("(orientation: landscape)");
+
+    if(isMobile() && isLandscape.matches){
+        var msg = "Landscape mode is not supported in mobile<br>🤦‍️<br>Please, turn your device orientation";
+        document.body.innerHTML = '<div style="text-align:center;position: absolute; top: 50%; bottom: 50%; width: 100%;">'+ msg +'</div>';
+    } else {
+        loadjscssfile("main.dart.js", "js")
+    }
+}
+*/
+
+
+
+
+</script>
+</body>
 </html>
- 
-<!-- 
-folder "m" is the web build generated from master branch                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
--->
