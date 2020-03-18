@@ -32,6 +32,7 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web/app/lib/l10n/messages_
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web/app/lib/l10n/messages_messages.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web/app/lib/myapp.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web/app/lib/production_main.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web/app/lib/sentry.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web/app/lib/ui/about/about_screen.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web/app/lib/ui/about/appinfo_screen.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web/app/lib/ui/about/feedback_screen.dart
@@ -138,6 +139,7 @@ file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/flu
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_markdown-0.3.2/lib/src/builder.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_markdown-0.3.2/lib/src/style_sheet.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_markdown-0.3.2/lib/src/widget.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.0+4/lib/browser_client.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.0+4/lib/http.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.0+4/lib/src/base_client.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.0+4/lib/src/base_request.dart
@@ -229,6 +231,12 @@ file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/qr_
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/qr_flutter-3.0.1/lib/src/validator.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.0.5/lib/pattern.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.0.5/lib/src/pattern/glob.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/sentry-3.0.1/lib/sentry.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/sentry-3.0.1/lib/src/base.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/sentry-3.0.1/lib/src/browser.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/sentry-3.0.1/lib/src/stack_trace.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/sentry-3.0.1/lib/src/utils.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/sentry-3.0.1/lib/src/version.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3+5/lib/shared_preferences.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/source_span.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/src/colors.dart
@@ -241,6 +249,16 @@ file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/sou
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/src/span_mixin.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/src/span_with_context.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/src/utils.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib/src/chain.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib/src/frame.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib/src/lazy_chain.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib/src/lazy_trace.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib/src/stack_zone_specification.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib/src/trace.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib/src/unparsed_frame.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib/src/utils.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib/src/vm_trace.dart
+file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib/stack_trace.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stomp-0.8.0/lib/impl/plugin.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stomp-0.8.0/lib/impl/util.dart
 file:///Users/jenkins/development/flutter/.pub-cache/hosted/pub.dartlang.org/stomp-0.8.0/lib/src/impl/util_read.dart
