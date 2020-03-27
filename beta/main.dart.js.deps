@@ -77,6 +77,8 @@ file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/navig
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/theme/app_theme.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/theme/desktop_app_theme.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/theme/mobile_app_theme.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/url_launcher/url_launcher.dart
+file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/url_launcher/url_launcher_html.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/desktop_welcome_layout.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/mobile_welcome_layout.dart
 file:///Users/Shared/Jenkins/slave/workspace/estimoji_web_devel/app/lib/ui/welcome/splash.dart
