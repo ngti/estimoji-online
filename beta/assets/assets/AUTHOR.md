@@ -1,5 +1,9 @@
-We are a team of over 50 IT experts from a wide range of countries and cultures, with three common denominators in our DNA: we love tech, we aim to deliver top notch quality and we love sharpening our saws while doing so.
+We are a team of over 50 IT experts from a wide range of countries and cultures. We take pride in our craftsmanship in innovation. Whether it’s a single app or a complex web application that needs to scale rapidly:
 
-We work our digital mastery in our clients’ international projects. We take pride in our craftsmanship in innovation. Whether it’s a single app or a complex web application that needs to scale rapidly: we develop your concept today to scale your business tomorrow. Our sense of quality and speed of action enables us to deliver products that our clients can build on. We’re on top of the latest trends in innovation and are compliant to the highest standards.
+We develop your concept today to scale your business tomorrow!
 
-We have built up our reputation as a software development partner for the largest Swiss telecom company Swisscom. Since 2012, we have been closely involved with various innovative start-ups within Swisscom in the field of mobile information technology. With our commitment, experience and expertise we have contributed to the launch of many successful, independent companies.
+We have built up our reputation as a software development partner for the largest Swiss telecom company Swisscom. Since 2012, we have been closely involved with various innovative start-ups  in the field of mobile information technology. With our commitment, experience and expertise we have contributed to the launch of many successful, independent companies.
+
+More info? Visit our website www.ngti.nl and let's talk!
+
+![LOGO NGTI](ngti-logo.png)
