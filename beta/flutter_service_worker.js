@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "81c11f051f5cbc1246c4b48b2da406fc",
-"/": "81c11f051f5cbc1246c4b48b2da406fc",
+  "index.html": "ccc563062258452176ad1446e609b345",
+"/": "ccc563062258452176ad1446e609b345",
 "main.dart.js.deps": "7777d2fc098446f82d62495277a3f1e2",
 "main.dart.js": "3159498bf227952a25792c57375bbd04",
 "assets/LICENSE": "fc94f83119f7ad8f210eb34bc533c43c",
@@ -81,7 +81,7 @@ const RESOURCES = {
 "assets/assets/icon/iphone.png": "b54caffbbd1de25ca29f9eec0f1837fe",
 "assets/assets/icon/icon_solid.png": "3c22969edc96e273e40d8f4f668d3204",
 "assets/assets/matu_party.gif": "07ce7827e071d16f9d8248b6c11f82c1",
-"assets/assets/VERSION.txt": "b6e3230cec90290327c0f3ce19a1ff9b",
+"assets/assets/VERSION.txt": "f7bd5400dbb2904d9eb24ef85c5955d0",
 "assets/assets/scan-qr.png": "30652c28ab702d41eaea075deb2e3711",
 "assets/assets/app-store-badge.png": "6fc6b9412e271f1cf7a640202f8fab37"
 };
