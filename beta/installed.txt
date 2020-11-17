@@ -1,4 +1,5 @@
 assets
+flutter_service_worker.js
 index.html
 main.dart.js
 main.dart.js.deps
