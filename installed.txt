@@ -1,5 +1,5 @@
 assets
+flutter_service_worker.js
 index.html
 main.dart.js
-main.dart.js.deps
 main.dart.js.map
